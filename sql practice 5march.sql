@@ -16,4 +16,13 @@ from employees1 as e right join departments as d
 on e.departmentid=d.departmentid
 where e.empid is null ;
 
-select 
+
+
+use sakila;
+show tables;
+
+select * from payment;
+
+select payment_id
+from payment
+where amount in (select min(amount) from payment);
