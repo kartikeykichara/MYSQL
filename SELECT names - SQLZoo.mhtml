@@ -1,23 +1,23 @@
 From: <Saved by Blink>
 Snapshot-Content-Location: https://www.sqlzoo.net/wiki/SELECT_names
 Subject: SELECT names - SQLZoo
-Date: Fri, 14 Feb 2025 09:23:47 +0530
+Date: Wed, 14 May 2025 23:35:59 +0530
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--lsAqnstDkXZVgIgedDPxHGPVc2MDtCM4Sfs8t4ybBU----"
+	boundary="----MultipartBoundary--LFkDdnIQT00sekIk53rVKLTGXx3uV8KTyEcfjODqt7----"
 
 
-------MultipartBoundary--lsAqnstDkXZVgIgedDPxHGPVc2MDtCM4Sfs8t4ybBU----
+------MultipartBoundary--LFkDdnIQT00sekIk53rVKLTGXx3uV8KTyEcfjODqt7----
 Content-Type: text/html
-Content-ID: <frame-65A6EB6708DDC4FF36E0BF0CA7D2E374@mhtml.blink>
+Content-ID: <frame-0CE83C30975EF2D7B3FA9A4139CFBB0D@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://www.sqlzoo.net/wiki/SELECT_names
 
 <!DOCTYPE html><html class=3D"client-js" lang=3D"en-GB" dir=3D"ltr"><head><=
 meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><li=
-nk rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-91984afb-af55-4f39-=
-a975-766b3a4d9a1e@mhtml.blink" />
+nk rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-1106e605-9466-464f-=
+9bc9-97d7b660dc8f@mhtml.blink" />
 
 <title>SELECT names - SQLZoo</title>
 
@@ -31,20 +31,19 @@ n-gb&amp;modules=3Dext.pygments%7Cskins.timeless&amp;only=3Dstyles&amp;skin=
 <meta name=3D"ResourceLoaderDynamicStyles" content=3D"">
 <link rel=3D"stylesheet" href=3D"https://www.sqlzoo.net/w/load.php?lang=3De=
 n-gb&amp;modules=3Dsite.styles&amp;only=3Dstyles&amp;skin=3Dtimeless">
-<meta name=3D"generator" content=3D"MediaWiki 1.42.1">
+<meta name=3D"generator" content=3D"MediaWiki 1.43.1">
 <meta name=3D"robots" content=3D"max-image-preview:standard">
 <meta name=3D"format-detection" content=3D"telephone=3Dno">
 <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
 0, user-scalable=3Dyes, minimum-scale=3D0.25, maximum-scale=3D5.0">
-<link rel=3D"icon" href=3D"https://www.sqlzoo.net/favicon.ico">
 <link rel=3D"search" type=3D"application/opensearchdescription+xml" href=3D=
-"https://www.sqlzoo.net/w/opensearch_desc.php" title=3D"SQLZoo (en-gb)">
-<link rel=3D"EditURI" type=3D"application/rsd+xml" href=3D"http://sqlzoo.ne=
-t/w/api.php?action=3Drsd">
+"https://www.sqlzoo.net/w/rest.php/v1/search" title=3D"SQLZoo (en-gb)">
+<link rel=3D"EditURI" type=3D"application/rsd+xml" href=3D"https://sqlzoo.n=
+et/w/api.php?action=3Drsd">
 <link rel=3D"alternate" type=3D"application/atom+xml" title=3D"SQLZoo Atom =
 feed" href=3D"https://www.sqlzoo.net/w/index.php?title=3DSpecial:RecentChan=
 ges&amp;feed=3Datom">
-<link rel=3D"stylesheet" href=3D"https://www.sqlzoo.net/sqlzoo.css">
+<link rel=3D"stylesheet" href=3D"https://www.sqlzoo.net/static/sqlzoo.css">
 </head>
 <body class=3D"mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject =
 page-SELECT_names rootpage-SELECT_names skin-timeless action-view skin--res=
@@ -58,39 +57,40 @@ label"><h3 id=3D"p-personal-label" lang=3D"en-GB" dir=3D"ltr">Not logged in=
 =3D"pt-login" class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/w/in=
 dex.php?title=3DSpecial:UserLogin&amp;returnto=3DSELECT+names" title=3D"You=
  are encouraged to log in; however, it is not mandatory [alt-shift-o]" acce=
-sskey=3D"o"><span>Log in</span></a></li></ul></div></div></div></div><div i=
-d=3D"pick-engine"><span></span><select id=3D"engine"><option value=3D"mysql=
--tinky" selected=3D"selected">MySQL</option><option value=3D"postgres">Post=
-greSQL</option><option value=3D"mssql-tinky">Microsoft SQL</option><option =
-value=3D"mysql-po">MariaDB po</option></select></div></div><div id=3D"p-log=
-o-text" class=3D"mw-portlet" role=3D"banner"><a id=3D"p-banner" class=3D"mw=
--wiki-title" href=3D"https://www.sqlzoo.net/wiki/SQL_Tutorial">SQLZoo</a></=
-div><div class=3D"mw-portlet" id=3D"p-search"><h3 lang=3D"en-GB" dir=3D"ltr=
-"><label for=3D"searchInput">Search</label></h3><form action=3D"https://www=
-.sqlzoo.net/w/index.php" id=3D"searchform"><div id=3D"simpleSearch"><div id=
-=3D"searchInput-container"><input type=3D"search" name=3D"search" placehold=
-er=3D"Search SQLZoo" aria-label=3D"Search SQLZoo" autocapitalize=3D"sentenc=
-es" title=3D"Search SQLZoo [alt-shift-f]" accesskey=3D"f" id=3D"searchInput=
-"></div><input class=3D"searchButton mw-fallbackSearchButton" type=3D"submi=
-t" name=3D"fulltext" title=3D"Search pages for this text" id=3D"mw-searchBu=
-tton" value=3D"Search"><input class=3D"searchButton" type=3D"submit" name=
-=3D"go" title=3D"Go to a page with this exact name if it exists" id=3D"sear=
-chButton" value=3D"Go"></div></form></div><div id=3D"uc-banner" class=3D"ba=
-nners">    <span><a href=3D"https://www.datawars.io/?utm_source=3Dsqlzoo&am=
-p;utm_medium=3Dtop-text"><b><img alt=3D"DataWars, Data Science Practice Pro=
-jects - Logo" src=3D"https://static.prd.datawars.io/brand/icon-transparent-=
-bg.png" style=3D" width: 35px; margin-right: 5px; ">DataWars: </b></a>Pract=
-ice Data Science/Analysis with <b>+100 Real Life Projects</b></span></div><=
-/div><div class=3D"visualClear"></div></div><div id=3D"mw-header-hack" clas=
-s=3D"color-bar"><div class=3D"color-middle-container"><div class=3D"color-m=
-iddle"></div></div><div class=3D"color-left"></div><div class=3D"color-righ=
-t"></div></div><div id=3D"mw-header-nav-hack"><div class=3D"color-bar"><div=
- class=3D"color-middle-container"><div class=3D"color-middle"></div></div><=
-div class=3D"color-left"></div><div class=3D"color-right"></div></div></div=
-><div id=3D"menus-cover"></div><div id=3D"mw-content-container" class=3D"ts=
--container"><div id=3D"mw-content-block" class=3D"ts-inner"><div id=3D"mw-c=
-ontent-wrapper"><div id=3D"mw-content"><div id=3D"content" class=3D"mw-body=
-" role=3D"main"><div class=3D"mw-indicators">
+sskey=3D"o"><span>Log in</span></a></li></ul></div></div></div></div><div><=
+span></span><select id=3D"engine"><option value=3D"mysql-sage">MySQL sage</=
+option><option value=3D"mysql-tinky" selected=3D"selected">MySQL tinky</opt=
+ion><option value=3D"postgres">PostgreSQL</option><option value=3D"mssql-sa=
+ge">Microsoft SQL</option><option value=3D"oracle-sage">Oracle</option></se=
+lect></div></div><div id=3D"p-logo-text" class=3D"mw-portlet" role=3D"banne=
+r"><a id=3D"p-banner" class=3D"mw-wiki-title" href=3D"https://www.sqlzoo.ne=
+t/wiki/SQL_Tutorial">SQLZoo</a></div><div class=3D"mw-portlet" id=3D"p-sear=
+ch"><h3 lang=3D"en-GB" dir=3D"ltr"><label for=3D"searchInput">Search</label=
+></h3><form action=3D"https://www.sqlzoo.net/w/index.php" id=3D"searchform"=
+><div id=3D"simpleSearch"><div id=3D"searchInput-container"><input type=3D"=
+search" name=3D"search" placeholder=3D"Search SQLZoo" aria-label=3D"Search =
+SQLZoo" autocapitalize=3D"sentences" title=3D"Search SQLZoo [alt-shift-f]" =
+accesskey=3D"f" id=3D"searchInput"></div><input class=3D"searchButton mw-fa=
+llbackSearchButton" type=3D"submit" name=3D"fulltext" title=3D"Search the p=
+ages for this text" id=3D"mw-searchButton" value=3D"Search"><input class=3D=
+"searchButton" type=3D"submit" name=3D"go" title=3D"Go to a page with this =
+exact name if it exists" id=3D"searchButton" value=3D"Go"></div></form></di=
+v><div id=3D"uc-banner" class=3D"banners">    <span><a href=3D"https://www.=
+datawars.io/?utm_source=3Dsqlzoo&amp;utm_medium=3Dtop-text"><b><img alt=3D"=
+DataWars, Data Science Practice Projects - Logo" src=3D"https://static.prd.=
+datawars.io/brand/icon-transparent-bg.png" style=3D" width: 35px; margin-ri=
+ght: 5px; ">DataWars: </b></a>Practice Data Science/Analysis with <b>+100 R=
+eal Life Projects</b></span></div></div><div class=3D"visualClear"></div></=
+div><div id=3D"mw-header-hack" class=3D"color-bar"><div class=3D"color-midd=
+le-container"><div class=3D"color-middle"></div></div><div class=3D"color-l=
+eft"></div><div class=3D"color-right"></div></div><div id=3D"mw-header-nav-=
+hack"><div class=3D"color-bar"><div class=3D"color-middle-container"><div c=
+lass=3D"color-middle"></div></div><div class=3D"color-left"></div><div clas=
+s=3D"color-right"></div></div></div><div id=3D"menus-cover"></div><div id=
+=3D"mw-content-container" class=3D"ts-container"><div id=3D"mw-content-bloc=
+k" class=3D"ts-inner"><div id=3D"mw-content-wrapper"><div id=3D"mw-content"=
+><div id=3D"content" class=3D"mw-body" role=3D"main"><div class=3D"mw-indic=
+ators">
 </div>
 <h1 id=3D"firstHeading" class=3D"firstHeading mw-first-heading"><span class=
 =3D"mw-page-title-main">SELECT names</span></h1><div id=3D"bodyContentOuter=
@@ -103,20 +103,20 @@ ng=3D"en-GB" dir=3D"ltr"><li id=3D"ca-nstab-main" class=3D"selected mw-list=
 he content page [alt-shift-c]" accesskey=3D"c"><span>Page</span></a></li><l=
 i id=3D"ca-talk" class=3D"new mw-list-item"><a href=3D"https://www.sqlzoo.n=
 et/w/index.php?title=3DTalk:SELECT_names&amp;action=3Dedit&amp;redlink=3D1"=
- rel=3D"discussion" title=3D"Discussion about the content page (page does n=
-ot exist) [alt-shift-t]" accesskey=3D"t"><span>Discussion</span></a></li></=
-ul></div></div><div role=3D"navigation" class=3D"mw-portlet tools-inline" i=
-d=3D"p-more" aria-labelledby=3D"p-more-label"><h3 id=3D"p-more-label" lang=
-=3D"en-GB" dir=3D"ltr">More</h3><div class=3D"mw-portlet-body"><ul lang=3D"=
-en-GB" dir=3D"ltr"><li id=3D"ca-more" class=3D"dropdown-toggle mw-list-item=
-"><span>More</span></li></ul></div></div><div role=3D"navigation" class=3D"=
-mw-portlet tools-inline" id=3D"p-views" aria-labelledby=3D"p-views-label"><=
-h3 id=3D"p-views-label" lang=3D"en-GB" dir=3D"ltr">Page actions</h3><div cl=
-ass=3D"mw-portlet-body"><ul lang=3D"en-GB" dir=3D"ltr"><li id=3D"ca-view" c=
-lass=3D"selected mw-list-item"><a href=3D"https://www.sqlzoo.net/wiki/SELEC=
-T_names"><span>Read</span></a></li><li id=3D"ca-viewsource" class=3D"mw-lis=
-t-item"><a href=3D"https://www.sqlzoo.net/w/index.php?title=3DSELECT_names&=
-amp;action=3Dedit" title=3D"This page is protected.
+ rel=3D"discussion" class=3D"new" title=3D"Discussion about the content pag=
+e (page does not exist) [alt-shift-t]" accesskey=3D"t"><span>Discussion</sp=
+an></a></li></ul></div></div><div role=3D"navigation" class=3D"mw-portlet t=
+ools-inline" id=3D"p-more" aria-labelledby=3D"p-more-label"><h3 id=3D"p-mor=
+e-label" lang=3D"en-GB" dir=3D"ltr">More</h3><div class=3D"mw-portlet-body"=
+><ul lang=3D"en-GB" dir=3D"ltr"><li id=3D"ca-more" class=3D"dropdown-toggle=
+ mw-list-item"><span>More</span></li></ul></div></div><div role=3D"navigati=
+on" class=3D"mw-portlet tools-inline" id=3D"p-views" aria-labelledby=3D"p-v=
+iews-label"><h3 id=3D"p-views-label" lang=3D"en-GB" dir=3D"ltr">Page action=
+s</h3><div class=3D"mw-portlet-body"><ul lang=3D"en-GB" dir=3D"ltr"><li id=
+=3D"ca-view" class=3D"selected mw-list-item"><a href=3D"https://www.sqlzoo.=
+net/wiki/SELECT_names"><span>Read</span></a></li><li id=3D"ca-viewsource" c=
+lass=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/w/index.php?title=
+=3DSELECT_names&amp;action=3Dedit" title=3D"This page is protected.
 You can view its source [alt-shift-e]" accesskey=3D"e"><span>View source</s=
 pan></a></li><li id=3D"ca-history" class=3D"mw-list-item"><a href=3D"https:=
 //www.sqlzoo.net/w/index.php?title=3DSELECT_names&amp;action=3Dhistory" tit=
@@ -126,11 +126,11 @@ ory</span></a></li></ul></div></div></div><div class=3D"visualClear"></div>=
 le"></div></div><div id=3D"mw-content-text" class=3D"mw-body-content"><div =
 class=3D"mw-content-ltr mw-parser-output" lang=3D"en-GB" dir=3D"ltr"><div c=
 lass=3D"content-table-wrapper"><div class=3D"content-table-scrollbar inacti=
-ve" style=3D"width: 970.4px;"><div class=3D"content-table-spoof" style=3D"w=
-idth: 245.262px;"></div></div><div class=3D"content-table-left"></div><div =
-class=3D"content-table-right"></div><div class=3D"content-table"><table cla=
-ss=3D"nmbox" style=3D"border:1px solid #AAA; border-collapse:collapse; clea=
-r:both; font-size:85%; margin: 0.5em 0">
+ve" style=3D"width: 972px;"><div class=3D"content-table-spoof" style=3D"wid=
+th: 245.262px;"></div></div><div class=3D"content-table-left"></div><div cl=
+ass=3D"content-table-right"></div><div class=3D"content-table"><table class=
+=3D"nmbox" style=3D"border:1px solid #AAA; border-collapse:collapse; clear:=
+both; font-size:85%; margin: 0.5em 0">
 <tbody><tr style=3D"background:#EEF3E2">
 <th class=3D"mbox-image" style=3D"white-space:nowrap; padding:4px 1em; bord=
 er-right:1px solid #aaa"> <a href=3D"https://www.sqlzoo.net/wiki/Special:My=
@@ -148,10 +148,10 @@ w.sqlzoo.net/wiki/SELECT_names/zh" title=3D"SELECT names/zh">=E4=B8=AD=E6=
 </tr></tbody></table></div></div>
 <div class=3D"ref_section">
 <div class=3D"content-table-wrapper"><div class=3D"content-table-scrollbar =
-inactive" style=3D"width: 970.4px;"><div class=3D"content-table-spoof" styl=
-e=3D"width: 169.225px;"></div></div><div class=3D"content-table-left"></div=
-><div class=3D"content-table-right"></div><div class=3D"content-table"><tab=
-le class=3D"db_ref">
+inactive" style=3D"width: 972px;"><div class=3D"content-table-spoof" style=
+=3D"width: 169.225px;"></div></div><div class=3D"content-table-left"></div>=
+<div class=3D"content-table-right"></div><div class=3D"content-table"><tabl=
+e class=3D"db_ref">
 <tbody><tr><th>name</th><th>continent</th></tr>
 <tr><td>Afghanistan</td><td>Asia</td></tr>
 <tr><td>Albania</td><td>Europe</td></tr>
@@ -197,7 +197,7 @@ d</span>
 =3D"k">LIKE</span><span class=3D"w"> </span><span class=3D"s1">'Y%'</span>
 </pre></div><div name=3D"frm__1" id=3D"frm__1" class=3D"frm"><span class=3D=
 "quf"><textarea spellcheck=3D"false" rows=3D"6" cols=3D"47" class=3D"sql" i=
-d=3D"txtar_1">SELECT name FROM world
+d=3D"txtar_1" data-first-focus=3D"1747244466198">SELECT name FROM world
   WHERE name LIKE 'F%'
 </textarea><button class=3D"submitSQL">Submit SQL</button><button class=3D"=
 reset">restore default</button></span></div></div><div class=3D"res"><h1>Co=
@@ -229,7 +229,7 @@ d</span>
 =3D"k">LIKE</span><span class=3D"w"> </span><span class=3D"s1">'%y'</span>
 </pre></div><div name=3D"frm__2" id=3D"frm__2" class=3D"frm"><span class=3D=
 "quf"><textarea spellcheck=3D"false" rows=3D"6" cols=3D"47" class=3D"sql" i=
-d=3D"txtar_2">SELECT name FROM world
+d=3D"txtar_2" data-first-focus=3D"1747244527295">SELECT name FROM world
   WHERE name LIKE 'T%'
 </textarea><button class=3D"submitSQL">Submit SQL</button><button class=3D"=
 reset">restore default</button></span></div></div><div class=3D"res"><h1>Co=
@@ -263,7 +263,7 @@ d</span>
 =3D"k">LIKE</span><span class=3D"w"> </span><span class=3D"s1">'%x%'</span>
 </pre></div><div name=3D"frm__3" id=3D"frm__3" class=3D"frm"><span class=3D=
 "quf"><textarea spellcheck=3D"false" rows=3D"6" cols=3D"47" class=3D"sql" i=
-d=3D"txtar_3">SELECT name FROM world
+d=3D"txtar_3" data-first-focus=3D"1747244789321">SELECT name FROM world
   WHERE name LIKE 'T%'
 </textarea><button class=3D"submitSQL">Submit SQL</button><button class=3D"=
 reset">restore default</button></span></div></div><div class=3D"res"><h1>Co=
@@ -296,7 +296,7 @@ d</span>
 n>
 </pre></div><div name=3D"frm__4" id=3D"frm__4" class=3D"frm"><span class=3D=
 "quf"><textarea spellcheck=3D"false" rows=3D"6" cols=3D"47" class=3D"sql" i=
-d=3D"txtar_4">SELECT name FROM world
+d=3D"txtar_4" data-first-focus=3D"1747244822968">SELECT name FROM world
   WHERE name LIKE 'T%'
 </textarea><button class=3D"submitSQL">Submit SQL</button><button class=3D"=
 reset">restore default</button></span></div></div><div class=3D"res"><h1>Co=
@@ -332,7 +332,7 @@ d</span>
 >
 </pre></div><div name=3D"frm__5" id=3D"frm__5" class=3D"frm"><span class=3D=
 "quf"><textarea spellcheck=3D"false" rows=3D"6" cols=3D"47" class=3D"sql" i=
-d=3D"txtar_5">SELECT name FROM world
+d=3D"txtar_5" data-first-focus=3D"1747245117178">SELECT name FROM world
   WHERE name LIKE 'T%'
 </textarea><button class=3D"submitSQL">Submit SQL</button><button class=3D"=
 reset">restore default</button></span></div></div><div class=3D"res"><h1>Co=
@@ -367,7 +367,7 @@ d</span>
 >
 </pre></div><div name=3D"frm__6" id=3D"frm__6" class=3D"frm"><span class=3D=
 "quf"><textarea spellcheck=3D"false" rows=3D"6" cols=3D"47" class=3D"sql" i=
-d=3D"txtar_6">SELECT name FROM world
+d=3D"txtar_6" data-first-focus=3D"1747245206135">SELECT name FROM world
   WHERE name LIKE '%ee%'
 </textarea><button class=3D"submitSQL">Submit SQL</button><button class=3D"=
 reset">restore default</button></span></div></div><div class=3D"res"><h1>Co=
@@ -401,7 +401,7 @@ d</span>
 pan>
 </pre></div><div name=3D"frm__7" id=3D"frm__7" class=3D"frm"><span class=3D=
 "quf"><textarea spellcheck=3D"false" rows=3D"6" cols=3D"47" class=3D"sql" i=
-d=3D"txtar_7">SELECT name FROM world
+d=3D"txtar_7" data-first-focus=3D"1747245264278">SELECT name FROM world
   WHERE name LIKE 'T%'
 </textarea><button class=3D"submitSQL">Submit SQL</button><button class=3D"=
 reset">restore default</button></span></div></div><div class=3D"res"><h1>Co=
@@ -497,7 +497,7 @@ d</span>
 an>
 </pre></div><div name=3D"frm__9" id=3D"frm__9" class=3D"frm"><span class=3D=
 "quf"><textarea spellcheck=3D"false" rows=3D"6" cols=3D"47" class=3D"sql" i=
-d=3D"txtar_9" data-first-focus=3D"1739505153107">SELECT name FROM world
+d=3D"txtar_9">SELECT name FROM world
  WHERE name LIKE '_n%'
 </textarea><button class=3D"submitSQL">Submit SQL</button><button class=3D"=
 reset">restore default</button></span></div></div><div class=3D"res"><h1>Co=
@@ -565,9 +565,10 @@ g the basic questions too easy.
 
 
 
-<div><span class=3D"id">11.</span><p>The capital of <b>Luxembourg</b> is <b=
->Luxembourg</b>. Show all the countries where the capital is the same as th=
-e name of the country
+<div><div class=3D"qcorrect" title=3D"You have answered this question corre=
+ctly." style=3D""></div><span class=3D"id">11.</span><p>The capital of <b>L=
+uxembourg</b> is <b>Luxembourg</b>. Show all the countries where the capita=
+l is the same as the name of the country
 </p><p class=3D"imper">Find the country where the name is the capital city.=
 </p><div class=3D"def mw-highlight mw-highlight-lang-sql mw-content-ltr" di=
 r=3D"ltr"><pre><span></span><span class=3D"k">SELECT</span><span class=3D"w=
@@ -593,17 +594,20 @@ d</span>
   FROM world
  WHERE name LIKE '%x%'
 </textarea><button class=3D"submitSQL">Submit SQL</button><button class=3D"=
-reset">restore default</button></span></div></div><div class=3D"res">result=
-</div></div>
+reset">restore default</button></span></div></div><div class=3D"res"><h1>Co=
+rrect answer</h1><table class=3D"sqlmine"><tr><th>name</th></tr><tr><td>Dji=
+bouti</td></tr><tr><td>Luxembourg</td></tr><tr><td>San Marino</td></tr><tr>=
+<td>Singapore</td></tr></table></div></div>
 <div class=3D"qu zood" data-qnumber=3D"12">
 
 
 
 
 
-<div><span class=3D"id">12.</span><p>The capital of <b>Mexico</b> is <b>Mex=
-ico City</b>. Show all the countries where the capital has the country toge=
-ther with the word "City".
+<div><div class=3D"qcorrect" title=3D"You have answered this question corre=
+ctly." style=3D""></div><span class=3D"id">12.</span><p>The capital of <b>M=
+exico</b> is <b>Mexico City</b>. Show all the countries where the capital h=
+as the country together with the word "City".
 </p><p class=3D"imper">Find the country where the capital is the country pl=
 us "City".</p><div class=3D"tease">The concat function</div><div class=3D"h=
 int hide" title=3D"The concat function">
@@ -622,31 +626,43 @@ t(name, 'town')
   FROM world
  WHERE name LIKE '%ina%'</textarea><button class=3D"submitSQL">Submit SQL</=
 button><button class=3D"reset">restore default</button></span></div></div><=
-div class=3D"res">result</div></div>
+div class=3D"res"><h1>Correct answer</h1><table class=3D"sqlmine"><tr><th>n=
+ame</th></tr><tr><td>Guatemala</td></tr><tr><td>Kuwait</td></tr><tr><td>Mex=
+ico</td></tr><tr><td>Panama</td></tr></table></div></div>
 <div class=3D"qu zood" data-qnumber=3D"13">
 
 
 
-<div><span class=3D"id">13.</span><p class=3D"imper">Find the capital and t=
-he name where the capital includes the name of the country.</p><div class=
-=3D"def mw-highlight mw-highlight-lang-sql mw-content-ltr" dir=3D"ltr"></di=
-v><div class=3D"ans mw-highlight mw-highlight-lang-sql mw-content-ltr" dir=
-=3D"ltr"><pre>SELECT capital, name FROM world
+<div><div class=3D"qcorrect" title=3D"You have answered this question corre=
+ctly." style=3D""></div><span class=3D"id">13.</span><p class=3D"imper">Fin=
+d the capital and the name where the capital includes the name of the count=
+ry.</p><div class=3D"def mw-highlight mw-highlight-lang-sql mw-content-ltr"=
+ dir=3D"ltr"></div><div class=3D"ans mw-highlight mw-highlight-lang-sql mw-=
+content-ltr" dir=3D"ltr"><pre>SELECT capital, name FROM world
  WHERE capital LIKE concat('%', name, '%')</pre></div><div name=3D"frm__13"=
  id=3D"frm__13" class=3D"frm"><span class=3D"quf"><textarea spellcheck=3D"f=
 alse" rows=3D"6" cols=3D"47" class=3D"sql" id=3D"txtar_13"></textarea><butt=
 on class=3D"submitSQL">Submit SQL</button><button class=3D"reset">restore d=
-efault</button></span></div></div><div class=3D"res">result</div></div>
+efault</button></span></div></div><div class=3D"res"><h1>Correct answer</h1=
+><table class=3D"sqlmine"><tr><th>capital</th><th>name</th></tr><tr><td>And=
+orra la Vella</td><td>Andorra</td></tr><tr><td>Djibouti</td><td>Djibouti</t=
+d></tr><tr><td>Guatemala City</td><td>Guatemala</td></tr><tr><td>Kuwait Cit=
+y</td><td>Kuwait</td></tr><tr><td>Luxembourg</td><td>Luxembourg</td></tr><t=
+r><td>Mexico City</td><td>Mexico</td></tr><tr><td>Monaco-Ville</td><td>Mona=
+co</td></tr><tr><td>Panama City</td><td>Panama</td></tr><tr><td>San Marino<=
+/td><td>San Marino</td></tr><tr><td>Singapore</td><td>Singapore</td></tr></=
+table></div></div>
 <div class=3D"qu zood" data-qnumber=3D"14">
 
 
 
 
-<div><span class=3D"id">14.</span><p class=3D"imper">Find the capital and t=
-he name where the capital is an extension of name of the country.</p><p>You=
- <i>should</i> include <b>Mexico City</b> as it is longer than <b>Mexico</b=
->. You <i>should not</i> include <b>Luxembourg </b> as the capital is the s=
-ame as the country.
+<div><div class=3D"qcorrect" title=3D"You have answered this question corre=
+ctly." style=3D""></div><span class=3D"id">14.</span><p class=3D"imper">Fin=
+d the capital and the name where the capital is an extension of name of the=
+ country.</p><p>You <i>should</i> include <b>Mexico City</b> as it is longe=
+r than <b>Mexico</b>. You <i>should not</i> include <b>Luxembourg </b> as t=
+he capital is the same as the country.
 </p><div class=3D"def mw-highlight mw-highlight-lang-sql mw-content-ltr" di=
 r=3D"ltr"></div><div class=3D"ans mw-highlight mw-highlight-lang-sql mw-con=
 tent-ltr" dir=3D"ltr"><pre>SELECT capital,name FROM world
@@ -654,15 +670,22 @@ tent-ltr" dir=3D"ltr"><pre>SELECT capital,name FROM world
 =3D"frm__14" class=3D"frm"><span class=3D"quf"><textarea spellcheck=3D"fals=
 e" rows=3D"6" cols=3D"47" class=3D"sql" id=3D"txtar_14"></textarea><button =
 class=3D"submitSQL">Submit SQL</button><button class=3D"reset">restore defa=
-ult</button></span></div></div><div class=3D"res">result</div></div>
+ult</button></span></div></div><div class=3D"res"><h1>Correct answer</h1><t=
+able class=3D"sqlmine"><tr><th>capital</th><th>name</th></tr><tr><td>Andorr=
+a la Vella</td><td>Andorra</td></tr><tr><td>Guatemala City</td><td>Guatemal=
+a</td></tr><tr><td>Kuwait City</td><td>Kuwait</td></tr><tr><td>Mexico City<=
+/td><td>Mexico</td></tr><tr><td>Monaco-Ville</td><td>Monaco</td></tr><tr><t=
+d>Panama City</td><td>Panama</td></tr></table></div></div>
 <div class=3D"qu zood" data-qnumber=3D"15">
 
 
 
 
 
-<div><span class=3D"id">15.</span><p>The capital of Monaco is <b>Monaco-Vil=
-le</b>: this is the name <b>Monaco</b> and the extension is <b>-Ville</b>.
+<div><div class=3D"qcorrect" title=3D"You have answered this question corre=
+ctly." style=3D""></div><span class=3D"id">15.</span><p>The capital of Mona=
+co is <b>Monaco-Ville</b>: this is the name <b>Monaco</b> and the extension=
+ is <b>-Ville</b>.
 </p><p class=3D"imper">Show the name and the extension where the capital is=
  a proper (non-empty) extension of name of the country.</p><p>You can use t=
 he SQL function <a href=3D"https://www.sqlzoo.net/wiki/REPLACE" title=3D"RE=
@@ -675,15 +698,20 @@ where capital LIKE concat(name,'_%')</pre></div><div name=3D"frm__15" id=3D=
 "frm__15" class=3D"frm"><span class=3D"quf"><textarea spellcheck=3D"false" =
 rows=3D"6" cols=3D"47" class=3D"sql" id=3D"txtar_15"></textarea><button cla=
 ss=3D"submitSQL">Submit SQL</button><button class=3D"reset">restore default=
-</button></span></div></div><div class=3D"res">result</div></div>
+</button></span></div></div><div class=3D"res"><h1>Correct answer</h1><tabl=
+e class=3D"sqlmine"><tr><th>name</th><th>replace(capital, name, '')</th></t=
+r><tr><td>Andorra</td><td> la Vella</td></tr><tr><td>Guatemala</td><td> Cit=
+y</td></tr><tr><td>Kuwait</td><td> City</td></tr><tr><td>Mexico</td><td> Ci=
+ty</td></tr><tr><td>Monaco</td><td>-Ville</td></tr><tr><td>Panama</td><td> =
+City</td></tr></table></div></div>
 <!--=20
 NewPP limit report
-Cached time: 20250213092318
+Cached time: 20250513195621
 Cache expiry: 86400
 Reduced expiry: false
 Complications: []
-CPU time usage: 0.789 seconds
-Real time usage: 16.852 seconds
+CPU time usage: 0.175 seconds
+Real time usage: 4.682 seconds
 Preprocessor visited node count: 5394/1000000
 Post=E2=80=90expand include size: 15347/2097152 bytes
 Template argument size: 4663/2097152 bytes
@@ -694,26 +722,26 @@ Unstrip post=E2=80=90expand size: 14780/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  527.170      1 Template:Languages
-100.00%  527.170      1 -total
- 72.69%  383.215      1 Template:Nmbox
- 62.87%  331.448    149 Template:Languages/Lang
- 31.03%  163.565    156 Template:Translatable
- 17.56%   92.553      1 Template:Ll
- 17.51%   92.287    152 Template:Pagelang
-  8.58%   45.256      1 Template:Languages/Title
-  5.79%   30.526      1 Template:LangSwitch
-  3.84%   20.253      1 Template:Dir
+100.00%  145.925      1 Template:Languages
+100.00%  145.925      1 -total
+ 73.55%  107.334      1 Template:Nmbox
+ 66.23%   96.641    149 Template:Languages/Lang
+ 28.31%   41.315    156 Template:Translatable
+ 17.01%   24.818      1 Template:Ll
+ 15.57%   22.726    152 Template:Pagelang
+  8.33%   12.159      1 Template:Languages/Title
+  5.64%    8.226      1 Template:LangSwitch
+  3.91%    5.704      1 Template:Dir
 -->
 
 <!-- Saved in parser cache with key sqlzoo_wiki:pcache:idhash:901-0!canonic=
-al and timestamp 20250213092318 and revision id 40201. Rendering was trigge=
-red because: page-view
+al and timestamp 20250513195621 and revision id 40201. Rendering was trigge=
+red because: diff-page
  -->
 </div></div><div class=3D"printfooter">
-Retrieved from =E2=80=98<a dir=3D"ltr" href=3D"http://sqlzoo.net/w/index.ph=
-p?title=3DSELECT_names&amp;oldid=3D40201">http://sqlzoo.net/w/index.php?tit=
-le=3DSELECT_names&amp;oldid=3D40201</a>=E2=80=99</div>
+Retrieved from "<a dir=3D"ltr" href=3D"https://sqlzoo.net/w/index.php?title=
+=3DSELECT_names&amp;oldid=3D40201">https://sqlzoo.net/w/index.php?title=3DS=
+ELECT_names&amp;oldid=3D40201</a>"</div>
 <div class=3D"visualClear"></div></div></div></div></div><div id=3D"content=
 -bottom-stuff"><div id=3D"catlinks" class=3D"catlinks" data-mw=3D"interface=
 "><div id=3D"mw-normal-catlinks" class=3D"mw-normal-catlinks"><a href=3D"ht=
@@ -732,166 +760,424 @@ s not exist)">Pages with too many expensive parser function calls</a></li><=
 /ul></div></div></div></div><div id=3D"mw-site-navigation"><div id=3D"p-log=
 o" class=3D"mw-portlet" role=3D"banner"><a class=3D"mw-wiki-logo timeless-l=
 ogo" href=3D"https://www.sqlzoo.net/wiki/SQL_Tutorial" title=3D"Visit the m=
-ain page"><img src=3D"https://www.sqlzoo.net/malones.svg"></a></div><div id=
-=3D"site-navigation" class=3D"sidebar-chunk"><h2><span>Navigation</span></h=
-2><div class=3D"sidebar-inner"><div role=3D"navigation" class=3D"mw-portlet=
-" id=3D"p-" aria-labelledby=3D"p--label"><h3 id=3D"p--label" lang=3D"en-GB"=
- dir=3D"ltr"></h3><div class=3D"mw-portlet-body"><ul lang=3D"en-GB" dir=3D"=
-ltr"><li id=3D"n-SELECT-basics" class=3D"mw-list-item"><a href=3D"https://w=
-ww.sqlzoo.net/wiki/SELECT_basics"><span>SELECT basics</span></a><progress m=
-ax=3D"1" value=3D"0"></progress></li><li id=3D"n-quiz" class=3D"mw-list-ite=
-m"><a href=3D"https://www.sqlzoo.net/wiki/SELECT_Quiz"><span>quiz</span></a=
-><progress max=3D"1" value=3D"0"></progress></li><li id=3D"n-SELECT-from-wo=
-rld" class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/wiki/SELECT_f=
-rom_WORLD_Tutorial"><span>SELECT from world</span></a><progress max=3D"1" v=
-alue=3D"0"></progress></li><li id=3D"n-quiz" class=3D"mw-list-item"><a href=
-=3D"https://www.sqlzoo.net/wiki/BBC_QUIZ"><span>quiz</span></a><progress ma=
-x=3D"1" value=3D"0"></progress></li><li id=3D"n-SELECT-from-nobel" class=3D=
-"mw-list-item"><a href=3D"https://www.sqlzoo.net/wiki/SELECT_from_Nobel_Tut=
-orial"><span>SELECT from nobel</span></a><progress max=3D"1" value=3D"0"></=
-progress></li><li id=3D"n-quiz" class=3D"mw-list-item"><a href=3D"https://w=
-ww.sqlzoo.net/wiki/Nobel_Quiz"><span>quiz</span></a><progress max=3D"1" val=
-ue=3D"0"></progress></li><li id=3D"n-SELECT-in-SELECT" class=3D"mw-list-ite=
-m"><a href=3D"https://www.sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial"><s=
-pan>SELECT in SELECT</span></a><progress max=3D"1" value=3D"0"></progress><=
-/li><li id=3D"n-quiz" class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.=
-net/wiki/Nested_SELECT_Quiz"><span>quiz</span></a><progress max=3D"1" value=
-=3D"0"></progress></li><li id=3D"n-SUM-and-COUNT" class=3D"mw-list-item"><a=
- href=3D"https://www.sqlzoo.net/wiki/SUM_and_COUNT"><span>SUM and COUNT</sp=
-an></a><progress max=3D"1" value=3D"0"></progress></li><li id=3D"n-quiz" cl=
-ass=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/wiki/SUM_and_COUNT_Q=
-uiz"><span>quiz</span></a><progress max=3D"1" value=3D"0"></progress></li><=
-li id=3D"n-JOIN" class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/w=
-iki/The_JOIN_operation"><span>JOIN</span></a><progress max=3D"1" value=3D"0=
-"></progress></li><li id=3D"n-quiz" class=3D"mw-list-item"><a href=3D"https=
-://www.sqlzoo.net/wiki/JOIN_Quiz"><span>quiz</span></a><progress max=3D"1" =
-value=3D"0"></progress></li><li id=3D"n-More-JOIN" class=3D"mw-list-item"><=
-a href=3D"https://www.sqlzoo.net/wiki/More_JOIN_operations"><span>More JOIN=
-</span></a><progress max=3D"1" value=3D"0"></progress></li><li id=3D"n-quiz=
-" class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/wiki/JOIN_Quiz_2=
-"><span>quiz</span></a><progress max=3D"1" value=3D"0"></progress></li><li =
-id=3D"n-Using-NULL" class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.ne=
-t/wiki/Using_Null"><span>Using NULL</span></a><progress max=3D"1" value=3D"=
-0"></progress></li><li id=3D"n-quiz" class=3D"mw-list-item"><a href=3D"http=
-s://www.sqlzoo.net/wiki/Using_Null_Quiz"><span>quiz</span></a><progress max=
-=3D"1" value=3D"0"></progress></li><li id=3D"n-Self-JOIN" class=3D"mw-list-=
-item"><a href=3D"https://www.sqlzoo.net/wiki/Self_join"><span>Self JOIN</sp=
-an></a><progress max=3D"1" value=3D"0"></progress></li><li id=3D"n-quiz" cl=
-ass=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/wiki/Self_join_Quiz"=
-><span>quiz</span></a><progress max=3D"1" value=3D"0"></progress></li></ul>=
-</div></div><div role=3D"navigation" class=3D"mw-portlet" id=3D"p-Reference=
-" aria-labelledby=3D"p-Reference-label"><h3 id=3D"p-Reference-label" lang=
-=3D"en-GB" dir=3D"ltr">Reference</h3><div class=3D"mw-portlet-body"><ul lan=
-g=3D"en-GB" dir=3D"ltr"><li id=3D"n-NoSQL-zoo" class=3D"mw-list-item"><a hr=
-ef=3D"https://nosqlzoo.net/" rel=3D"nofollow"><span>NoSQL zoo</span></a></l=
-i><li id=3D"n-SELECT" class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.=
-net/wiki/SELECT"><span>SELECT</span></a></li><li id=3D"n-Functions" class=
-=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/wiki/FUNCTIONS"><span>F=
-unctions</span></a></li><li id=3D"n-SELECT-..-WHERE" class=3D"mw-list-item"=
-><a href=3D"https://www.sqlzoo.net/wiki/SELECT_.._WHERE"><span>SELECT .. WH=
-ERE</span></a></li><li id=3D"n-SELECT-..-GROUP-BY" class=3D"mw-list-item"><=
-a href=3D"https://www.sqlzoo.net/wiki/SELECT_.._GROUP_BY"><span>SELECT .. G=
-ROUP BY</span></a></li><li id=3D"n-SELECT-..-JOIN" class=3D"mw-list-item"><=
-a href=3D"https://www.sqlzoo.net/wiki/SELECT_.._JOIN"><span>SELECT .. JOIN<=
-/span></a></li><li id=3D"n-SELECT-..-SELECT" class=3D"mw-list-item"><a href=
-=3D"https://www.sqlzoo.net/wiki/SELECT_.._SELECT"><span>SELECT .. SELECT</s=
-pan></a></li><li id=3D"n-INSERT-..-VALUES" class=3D"mw-list-item"><a href=
-=3D"https://www.sqlzoo.net/wiki/INSERT_.._VALUES"><span>INSERT .. VALUES</s=
-pan></a></li><li id=3D"n-INSERT-..-SELECT" class=3D"mw-list-item"><a href=
-=3D"https://www.sqlzoo.net/wiki/INSERT_.._SELECT"><span>INSERT .. SELECT</s=
-pan></a></li><li id=3D"n-UPDATE" class=3D"mw-list-item"><a href=3D"https://=
-www.sqlzoo.net/wiki/UPDATE"><span>UPDATE</span></a></li><li id=3D"n-DELETE"=
- class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/wiki/DELETE"><spa=
-n>DELETE</span></a></li><li id=3D"n-CREATE-TABLE" class=3D"mw-list-item"><a=
- href=3D"https://www.sqlzoo.net/wiki/CREATE_TABLE"><span>CREATE TABLE</span=
-></a></li><li id=3D"n-CREATE-VIEW" class=3D"mw-list-item"><a href=3D"https:=
-//www.sqlzoo.net/wiki/CREATE_VIEW"><span>CREATE VIEW</span></a></li><li id=
-=3D"n-CREATE-INDEX" class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.ne=
-t/wiki/CREATE_INDEX"><span>CREATE INDEX</span></a></li><li id=3D"n-DROP" cl=
-ass=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/wiki/DROP"><span>DRO=
-P</span></a></li><li id=3D"n-ALTER" class=3D"mw-list-item"><a href=3D"https=
-://www.sqlzoo.net/wiki/ALTER"><span>ALTER</span></a></li><li id=3D"n-UNION"=
- class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/wiki/UNION"><span=
->UNION</span></a></li><li id=3D"n-LEFT-JOIN" class=3D"mw-list-item"><a href=
-=3D"https://www.sqlzoo.net/wiki/LEFT_JOIN"><span>LEFT JOIN</span></a></li><=
-li id=3D"n-NULL" class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/w=
-iki/NULL"><span>NULL</span></a></li></ul></div></div></div></div><div id=3D=
-"site-tools" class=3D"sidebar-chunk"><h2><span>Wiki tools</span></h2><div c=
-lass=3D"sidebar-inner"><div role=3D"navigation" class=3D"mw-portlet" id=3D"=
-p-tb" aria-labelledby=3D"p-tb-label"><h3 id=3D"p-tb-label" lang=3D"en-GB" d=
-ir=3D"ltr">Wiki tools</h3><div class=3D"mw-portlet-body"><ul lang=3D"en-GB"=
- dir=3D"ltr"><li id=3D"t-specialpages" class=3D"mw-list-item"><a href=3D"ht=
-tps://www.sqlzoo.net/wiki/Special:SpecialPages" title=3D"A list of all spec=
-ial pages [alt-shift-q]" accesskey=3D"q"><span>Special pages</span></a></li=
-></ul></div></div></div></div></div><div id=3D"mw-related-navigation"><div =
-id=3D"page-tools" class=3D"sidebar-chunk"><h2><span>Page tools</span></h2><=
-div class=3D"sidebar-inner"><div role=3D"navigation" class=3D"mw-portlet em=
-ptyPortlet" id=3D"p-cactions" title=3D"More options" aria-labelledby=3D"p-c=
-actions-label"><h3 id=3D"p-cactions-label" lang=3D"en-GB" dir=3D"ltr">Page =
-tools</h3><div class=3D"mw-portlet-body"><ul lang=3D"en-GB" dir=3D"ltr"></u=
-l></div></div><div role=3D"navigation" class=3D"mw-portlet emptyPortlet" id=
-=3D"p-userpagetools" aria-labelledby=3D"p-userpagetools-label"><h3 id=3D"p-=
-userpagetools-label" lang=3D"en-GB" dir=3D"ltr">User page tools</h3><div cl=
-ass=3D"mw-portlet-body"><ul lang=3D"en-GB" dir=3D"ltr"></ul></div></div><di=
-v role=3D"navigation" class=3D"mw-portlet" id=3D"p-pagemisc" aria-labelledb=
-y=3D"p-pagemisc-label"><h3 id=3D"p-pagemisc-label" lang=3D"en-GB" dir=3D"lt=
-r">More</h3><div class=3D"mw-portlet-body"><ul lang=3D"en-GB" dir=3D"ltr"><=
-li id=3D"t-whatlinkshere" class=3D"mw-list-item"><a href=3D"https://www.sql=
-zoo.net/wiki/Special:WhatLinksHere/SELECT_names" title=3D"A list of all wik=
-i pages that link here [alt-shift-j]" accesskey=3D"j"><span>What links here=
-</span></a></li><li id=3D"t-recentchangeslinked" class=3D"mw-list-item"><a =
-href=3D"https://www.sqlzoo.net/wiki/Special:RecentChangesLinked/SELECT_name=
-s" rel=3D"nofollow" title=3D"Recent changes in pages linked from this page =
-[alt-shift-k]" accesskey=3D"k"><span>Related changes</span></a></li><li id=
-=3D"t-print" class=3D"mw-list-item"><a rel=3D"alternate" title=3D"Printable=
- version of this page [alt-shift-p]" accesskey=3D"p"><span>Printable versio=
-n</span></a></li><li id=3D"t-permalink" class=3D"mw-list-item"><a href=3D"h=
-ttps://www.sqlzoo.net/w/index.php?title=3DSELECT_names&amp;oldid=3D40201" t=
-itle=3D"Permanent link to this revision of this page"><span>Permanent link<=
-/span></a></li><li id=3D"t-info" class=3D"mw-list-item"><a href=3D"https://=
-www.sqlzoo.net/w/index.php?title=3DSELECT_names&amp;action=3Dinfo" title=3D=
-"More information about this page"><span>Page information</span></a></li><l=
-i id=3D"t-pagelog" class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net=
-/w/index.php?title=3DSpecial:Log&amp;page=3DSELECT+names"><span>Page logs</=
-span></a></li></ul></div></div></div></div><div id=3D"catlinks-sidebar" cla=
-ss=3D"sidebar-chunk"><h2><span>Categories</span></h2><div class=3D"sidebar-=
-inner"><div id=3D"sidebar-normal-catlinks" class=3D"mw-normal-catlinks"><di=
-v role=3D"navigation" class=3D"mw-portlet" id=3D"p-normal-catlinks" aria-la=
-belledby=3D"p-normal-catlinks-label"><h3 id=3D"p-normal-catlinks-label" lan=
-g=3D"en-GB" dir=3D"ltr">Categories</h3><div class=3D"mw-portlet-body"><ul><=
-li><a href=3D"https://www.sqlzoo.net/w/index.php?title=3DCategory:Pages_usi=
-ng_deprecated_source_tags&amp;action=3Dedit&amp;redlink=3D1" class=3D"new" =
-title=3D"Category:Pages using deprecated source tags (page does not exist)"=
->Pages using deprecated source tags</a></li><li><a href=3D"https://www.sqlz=
-oo.net/w/index.php?title=3DCategory:Languages_pages&amp;action=3Dedit&amp;r=
-edlink=3D1" class=3D"new" title=3D"Category:Languages pages (page does not =
-exist)">Languages pages</a></li><li><a href=3D"https://www.sqlzoo.net/w/ind=
-ex.php?title=3DCategory:Pages_with_too_many_expensive_parser_function_calls=
-&amp;action=3Dedit&amp;redlink=3D1" class=3D"new" title=3D"Category:Pages w=
-ith too many expensive parser function calls (page does not exist)">Pages w=
-ith too many expensive parser function calls</a></li></ul></div></div></div=
-></div></div></div><div class=3D"visualClear"></div></div></div><div id=3D"=
-mw-footer-container" class=3D"mw-footer-container ts-container"><div id=3D"=
-mw-footer" class=3D"mw-footer ts-inner" role=3D"contentinfo" lang=3D"en-GB"=
- dir=3D"ltr"><ul id=3D"footer-icons"><li id=3D"footer-poweredbyico" class=
-=3D"footer-icons"><a href=3D"https://www.mediawiki.org/"><img src=3D"https:=
-//www.sqlzoo.net/w/resources/assets/poweredby_mediawiki_88x31.png" alt=3D"P=
-owered by MediaWiki" width=3D"88" height=3D"31" loading=3D"lazy"></a></li><=
-/ul><div id=3D"footer-list"><ul id=3D"footer-info"><li id=3D"footer-info-la=
-stmod"> This page was last modified on 11 August 2023, at 08:13.</li></ul><=
-ul id=3D"footer-places"><li id=3D"footer-places-privacy"><a href=3D"https:/=
-/www.sqlzoo.net/wiki/SQLZoo:Privacy_policy">Privacy policy</a></li><li id=
-=3D"footer-places-about"><a href=3D"https://www.sqlzoo.net/wiki/SQLZoo:Abou=
-t">About SQLZoo</a></li><li id=3D"footer-places-disclaimers"><a href=3D"htt=
-ps://www.sqlzoo.net/wiki/SQLZoo:General_disclaimer">Disclaimers</a></li><li=
- id=3D"yourHost">Your server today is: Laa-Laa</li></ul></div><div class=3D=
-"visualClear"></div></div></div></div>
+ain page"><img src=3D"https://www.sqlzoo.net/static/malones.svg"></a></div>=
+<div id=3D"site-navigation" class=3D"sidebar-chunk"><h2><span>Navigation</s=
+pan></h2><div class=3D"sidebar-inner"><div role=3D"navigation" class=3D"mw-=
+portlet" id=3D"p-" aria-labelledby=3D"p--label"><h3 id=3D"p--label" lang=3D=
+"en-GB" dir=3D"ltr"></h3><div class=3D"mw-portlet-body"><ul lang=3D"en-GB" =
+dir=3D"ltr"><li id=3D"n-SELECT-basics" class=3D"mw-list-item" title=3D"you =
+have completed 3 of 3"><a href=3D"https://www.sqlzoo.net/wiki/SELECT_basics=
+"><span>SELECT basics</span></a><progress max=3D"3" value=3D"3"></progress>=
+</li><li id=3D"n-quiz" class=3D"mw-list-item" title=3D"you have completed 7=
+ of 7"><a href=3D"https://www.sqlzoo.net/wiki/SELECT_Quiz"><span>quiz</span=
+></a><progress max=3D"7" value=3D"7"></progress></li><li id=3D"n-SELECT-fro=
+m-world" class=3D"mw-list-item" title=3D"you have completed 13 of 13"><a hr=
+ef=3D"https://www.sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial"><span>SELECT =
+from world</span></a><progress max=3D"13" value=3D"13"></progress></li><li =
+id=3D"n-quiz" class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/wiki=
+/BBC_QUIZ"><span>quiz</span></a><progress max=3D"1" value=3D"0"></progress>=
+</li><li id=3D"n-SELECT-from-nobel" class=3D"mw-list-item" title=3D"you hav=
+e completed 14 of 14"><a href=3D"https://www.sqlzoo.net/wiki/SELECT_from_No=
+bel_Tutorial"><span>SELECT from nobel</span></a><progress max=3D"14" value=
+=3D"14"></progress></li><li id=3D"n-quiz" class=3D"mw-list-item" title=3D"y=
+ou have completed 2 of 7"><a href=3D"https://www.sqlzoo.net/wiki/Nobel_Quiz=
+"><span>quiz</span></a><progress max=3D"7" value=3D"2"></progress></li><li =
+id=3D"n-SELECT-in-SELECT" class=3D"mw-list-item" title=3D"you have complete=
+d 4 of 10"><a href=3D"https://www.sqlzoo.net/wiki/SELECT_within_SELECT_Tuto=
+rial"><span>SELECT in SELECT</span></a><progress max=3D"10" value=3D"4"></p=
+rogress></li><li id=3D"n-quiz" class=3D"mw-list-item"><a href=3D"https://ww=
+w.sqlzoo.net/wiki/Nested_SELECT_Quiz"><span>quiz</span></a><progress max=3D=
+"1" value=3D"0"></progress></li><li id=3D"n-SUM-and-COUNT" class=3D"mw-list=
+-item" title=3D"you have completed 8 of 8"><a href=3D"https://www.sqlzoo.ne=
+t/wiki/SUM_and_COUNT"><span>SUM and COUNT</span></a><progress max=3D"8" val=
+ue=3D"8"></progress></li><li id=3D"n-quiz" class=3D"mw-list-item"><a href=
+=3D"https://www.sqlzoo.net/wiki/SUM_and_COUNT_Quiz"><span>quiz</span></a><p=
+rogress max=3D"1" value=3D"0"></progress></li><li id=3D"n-JOIN" class=3D"mw=
+-list-item" title=3D"you have completed 12 of 13"><a href=3D"https://www.sq=
+lzoo.net/wiki/The_JOIN_operation"><span>JOIN</span></a><progress max=3D"13"=
+ value=3D"12"></progress></li><li id=3D"n-quiz" class=3D"mw-list-item"><a h=
+ref=3D"https://www.sqlzoo.net/wiki/JOIN_Quiz"><span>quiz</span></a><progres=
+s max=3D"1" value=3D"0"></progress></li><li id=3D"n-More-JOIN" class=3D"mw-=
+list-item" title=3D"you have completed 5 of 15"><a href=3D"https://www.sqlz=
+oo.net/wiki/More_JOIN_operations"><span>More JOIN</span></a><progress max=
+=3D"15" value=3D"5"></progress></li><li id=3D"n-quiz" class=3D"mw-list-item=
+"><a href=3D"https://www.sqlzoo.net/wiki/JOIN_Quiz_2"><span>quiz</span></a>=
+<progress max=3D"1" value=3D"0"></progress></li><li id=3D"n-Using-NULL" cla=
+ss=3D"mw-list-item" title=3D"you have completed 5 of 10"><a href=3D"https:/=
+/www.sqlzoo.net/wiki/Using_Null"><span>Using NULL</span></a><progress max=
+=3D"10" value=3D"5"></progress></li><li id=3D"n-quiz" class=3D"mw-list-item=
+"><a href=3D"https://www.sqlzoo.net/wiki/Using_Null_Quiz"><span>quiz</span>=
+</a><progress max=3D"1" value=3D"0"></progress></li><li id=3D"n-Self-JOIN" =
+class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/wiki/Self_join"><s=
+pan>Self JOIN</span></a><progress max=3D"1" value=3D"0"></progress></li><li=
+ id=3D"n-quiz" class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/wik=
+i/Self_join_Quiz"><span>quiz</span></a><progress max=3D"1" value=3D"0"></pr=
+ogress></li></ul></div></div><div role=3D"navigation" class=3D"mw-portlet" =
+id=3D"p-Reference" aria-labelledby=3D"p-Reference-label"><h3 id=3D"p-Refere=
+nce-label" lang=3D"en-GB" dir=3D"ltr">Reference</h3><div class=3D"mw-portle=
+t-body"><ul lang=3D"en-GB" dir=3D"ltr"><li id=3D"n-NoSQL-zoo" class=3D"mw-l=
+ist-item"><a href=3D"https://nosqlzoo.net/" rel=3D"nofollow"><span>NoSQL zo=
+o</span></a></li><li id=3D"n-SELECT" class=3D"mw-list-item"><a href=3D"http=
+s://www.sqlzoo.net/wiki/SELECT"><span>SELECT</span></a></li><li id=3D"n-Fun=
+ctions" class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/wiki/FUNCT=
+IONS"><span>Functions</span></a></li><li id=3D"n-SELECT-..-WHERE" class=3D"=
+mw-list-item"><a href=3D"https://www.sqlzoo.net/wiki/SELECT_.._WHERE"><span=
+>SELECT .. WHERE</span></a></li><li id=3D"n-SELECT-..-GROUP-BY" class=3D"mw=
+-list-item"><a href=3D"https://www.sqlzoo.net/wiki/SELECT_.._GROUP_BY"><spa=
+n>SELECT .. GROUP BY</span></a></li><li id=3D"n-SELECT-..-JOIN" class=3D"mw=
+-list-item"><a href=3D"https://www.sqlzoo.net/wiki/SELECT_.._JOIN"><span>SE=
+LECT .. JOIN</span></a></li><li id=3D"n-SELECT-..-SELECT" class=3D"mw-list-=
+item"><a href=3D"https://www.sqlzoo.net/wiki/SELECT_.._SELECT"><span>SELECT=
+ .. SELECT</span></a></li><li id=3D"n-INSERT-..-VALUES" class=3D"mw-list-it=
+em"><a href=3D"https://www.sqlzoo.net/wiki/INSERT_.._VALUES"><span>INSERT .=
+. VALUES</span></a></li><li id=3D"n-INSERT-..-SELECT" class=3D"mw-list-item=
+"><a href=3D"https://www.sqlzoo.net/wiki/INSERT_.._SELECT"><span>INSERT .. =
+SELECT</span></a></li><li id=3D"n-UPDATE" class=3D"mw-list-item"><a href=3D=
+"https://www.sqlzoo.net/wiki/UPDATE"><span>UPDATE</span></a></li><li id=3D"=
+n-DELETE" class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/wiki/DEL=
+ETE"><span>DELETE</span></a></li><li id=3D"n-CREATE-TABLE" class=3D"mw-list=
+-item"><a href=3D"https://www.sqlzoo.net/wiki/CREATE_TABLE"><span>CREATE TA=
+BLE</span></a></li><li id=3D"n-CREATE-VIEW" class=3D"mw-list-item"><a href=
+=3D"https://www.sqlzoo.net/wiki/CREATE_VIEW"><span>CREATE VIEW</span></a></=
+li><li id=3D"n-CREATE-INDEX" class=3D"mw-list-item"><a href=3D"https://www.=
+sqlzoo.net/wiki/CREATE_INDEX"><span>CREATE INDEX</span></a></li><li id=3D"n=
+-DROP" class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/wiki/DROP">=
+<span>DROP</span></a></li><li id=3D"n-ALTER" class=3D"mw-list-item"><a href=
+=3D"https://www.sqlzoo.net/wiki/ALTER"><span>ALTER</span></a></li><li id=3D=
+"n-UNION" class=3D"mw-list-item"><a href=3D"https://www.sqlzoo.net/wiki/UNI=
+ON"><span>UNION</span></a></li><li id=3D"n-LEFT-JOIN" class=3D"mw-list-item=
+"><a href=3D"https://www.sqlzoo.net/wiki/LEFT_JOIN"><span>LEFT JOIN</span><=
+/a></li><li id=3D"n-NULL" class=3D"mw-list-item"><a href=3D"https://www.sql=
+zoo.net/wiki/NULL"><span>NULL</span></a></li></ul></div></div></div></div><=
+div id=3D"site-tools" class=3D"sidebar-chunk"><h2><span>Wiki tools</span></=
+h2><div class=3D"sidebar-inner"><div role=3D"navigation" class=3D"mw-portle=
+t" id=3D"p-tb" aria-labelledby=3D"p-tb-label"><h3 id=3D"p-tb-label" lang=3D=
+"en-GB" dir=3D"ltr">Wiki tools</h3><div class=3D"mw-portlet-body"><ul lang=
+=3D"en-GB" dir=3D"ltr"><li id=3D"t-specialpages" class=3D"mw-list-item"><a =
+href=3D"https://www.sqlzoo.net/wiki/Special:SpecialPages" title=3D"A list o=
+f all special pages [alt-shift-q]" accesskey=3D"q"><span>Special pages</spa=
+n></a></li></ul></div></div></div></div></div><div id=3D"mw-related-navigat=
+ion"><div id=3D"page-tools" class=3D"sidebar-chunk"><h2><span>Page tools</s=
+pan></h2><div class=3D"sidebar-inner"><div role=3D"navigation" class=3D"mw-=
+portlet emptyPortlet" id=3D"p-cactions" title=3D"More options" aria-labelle=
+dby=3D"p-cactions-label"><h3 id=3D"p-cactions-label" lang=3D"en-GB" dir=3D"=
+ltr">Page tools</h3><div class=3D"mw-portlet-body"><ul lang=3D"en-GB" dir=
+=3D"ltr"></ul></div></div><div role=3D"navigation" class=3D"mw-portlet empt=
+yPortlet" id=3D"p-userpagetools" aria-labelledby=3D"p-userpagetools-label">=
+<h3 id=3D"p-userpagetools-label" lang=3D"en-GB" dir=3D"ltr">User page tools=
+</h3><div class=3D"mw-portlet-body"><ul lang=3D"en-GB" dir=3D"ltr"></ul></d=
+iv></div><div role=3D"navigation" class=3D"mw-portlet" id=3D"p-pagemisc" ar=
+ia-labelledby=3D"p-pagemisc-label"><h3 id=3D"p-pagemisc-label" lang=3D"en-G=
+B" dir=3D"ltr">More</h3><div class=3D"mw-portlet-body"><ul lang=3D"en-GB" d=
+ir=3D"ltr"><li id=3D"t-whatlinkshere" class=3D"mw-list-item"><a href=3D"htt=
+ps://www.sqlzoo.net/wiki/Special:WhatLinksHere/SELECT_names" title=3D"A lis=
+t of all wiki pages that link here [alt-shift-j]" accesskey=3D"j"><span>Wha=
+t links here</span></a></li><li id=3D"t-recentchangeslinked" class=3D"mw-li=
+st-item"><a href=3D"https://www.sqlzoo.net/wiki/Special:RecentChangesLinked=
+/SELECT_names" rel=3D"nofollow" title=3D"Recent changes in pages linked fro=
+m this page [alt-shift-k]" accesskey=3D"k"><span>Related changes</span></a>=
+</li><li id=3D"t-print" class=3D"mw-list-item"><a rel=3D"alternate" title=
+=3D"Printable version of this page [alt-shift-p]" accesskey=3D"p"><span>Pri=
+ntable version</span></a></li><li id=3D"t-permalink" class=3D"mw-list-item"=
+><a href=3D"https://www.sqlzoo.net/w/index.php?title=3DSELECT_names&amp;old=
+id=3D40201" title=3D"Permanent link to this revision of this page"><span>Pe=
+rmanent link</span></a></li><li id=3D"t-info" class=3D"mw-list-item"><a hre=
+f=3D"https://www.sqlzoo.net/w/index.php?title=3DSELECT_names&amp;action=3Di=
+nfo" title=3D"More information about this page"><span>Page information</spa=
+n></a></li><li id=3D"t-pagelog" class=3D"mw-list-item"><a href=3D"https://w=
+ww.sqlzoo.net/w/index.php?title=3DSpecial:Log&amp;page=3DSELECT+names"><spa=
+n>Page logs</span></a></li></ul></div></div></div></div><div id=3D"catlinks=
+-sidebar" class=3D"sidebar-chunk"><h2><span>Categories</span></h2><div clas=
+s=3D"sidebar-inner"><div id=3D"sidebar-normal-catlinks" class=3D"mw-normal-=
+catlinks"><div role=3D"navigation" class=3D"mw-portlet" id=3D"p-normal-catl=
+inks" aria-labelledby=3D"p-normal-catlinks-label"><h3 id=3D"p-normal-catlin=
+ks-label" lang=3D"en-GB" dir=3D"ltr">Categories</h3><div class=3D"mw-portle=
+t-body"><ul><li><a href=3D"https://www.sqlzoo.net/w/index.php?title=3DCateg=
+ory:Pages_using_deprecated_source_tags&amp;action=3Dedit&amp;redlink=3D1" c=
+lass=3D"new" title=3D"Category:Pages using deprecated source tags (page doe=
+s not exist)">Pages using deprecated source tags</a></li><li><a href=3D"htt=
+ps://www.sqlzoo.net/w/index.php?title=3DCategory:Languages_pages&amp;action=
+=3Dedit&amp;redlink=3D1" class=3D"new" title=3D"Category:Languages pages (p=
+age does not exist)">Languages pages</a></li><li><a href=3D"https://www.sql=
+zoo.net/w/index.php?title=3DCategory:Pages_with_too_many_expensive_parser_f=
+unction_calls&amp;action=3Dedit&amp;redlink=3D1" class=3D"new" title=3D"Cat=
+egory:Pages with too many expensive parser function calls (page does not ex=
+ist)">Pages with too many expensive parser function calls</a></li></ul></di=
+v></div></div></div></div></div><div class=3D"visualClear"></div></div></di=
+v><div id=3D"mw-footer-container" class=3D"mw-footer-container ts-container=
+"><div id=3D"mw-footer" class=3D"mw-footer ts-inner" role=3D"contentinfo" l=
+ang=3D"en-GB" dir=3D"ltr"><ul id=3D"footer-icons"><li id=3D"footer-poweredb=
+yico" class=3D"footer-icons"><a href=3D"https://www.mediawiki.org/" class=
+=3D"cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--f=
+ake-button--enabled"><img src=3D"https://www.sqlzoo.net/w/resources/assets/=
+poweredby_mediawiki.svg" alt=3D"Powered by MediaWiki" width=3D"88" height=
+=3D"31" loading=3D"lazy"></a></li></ul><div id=3D"footer-list"><ul id=3D"fo=
+oter-info"><li id=3D"footer-info-lastmod"> This page was last modified on 1=
+1 August 2023, at 08:13.</li></ul><ul id=3D"footer-places"><li id=3D"footer=
+-places-privacy"><a href=3D"https://www.sqlzoo.net/wiki/SQLZoo:Privacy_poli=
+cy">Privacy policy</a></li><li id=3D"footer-places-about"><a href=3D"https:=
+//www.sqlzoo.net/wiki/SQLZoo:About">About SQLZoo</a></li><li id=3D"footer-p=
+laces-disclaimers"><a href=3D"https://www.sqlzoo.net/wiki/SQLZoo:General_di=
+sclaimer">Disclaimers</a></li><li id=3D"yourHost">Served by: <span id=3D"ho=
+stname">hammy</span> at <span id=3D"dob">2025-05-14T02:30<span></span></spa=
+n></li></ul></div><div class=3D"visualClear"></div></div></div></div>
 
 <div id=3D"mw-teleport-target"></div></body></html>
-------MultipartBoundary--lsAqnstDkXZVgIgedDPxHGPVc2MDtCM4Sfs8t4ybBU----
+------MultipartBoundary--LFkDdnIQT00sekIk53rVKLTGXx3uV8KTyEcfjODqt7----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://www.sqlzoo.net/malones.svg
+Content-Location: https://www.sqlzoo.net/w/resources/assets/poweredby_mediawiki.svg
+
+<?xml version=3D"1.0" encoding=3D"UTF-8"?>
+<svg xmlns=3D"http://www.w3.org/2000/svg" fill=3D"none" viewBox=3D"0 0 89 3=
+1">
+	<path fill=3D"#000" d=3D"m41.916 24.41-.01-8.146h-1.123l-2.865 5.394-2.917=
+-5.394h-1.125v8.146h1.3v-5.33l2.414 4.399h.611l2.415-4.47.01 5.395h1.29zm6.=
+919-3.072a3.7 3.7 0 0 0-.363-1.682A2.68 2.68 0 0 0 46 18.124a2.76 2.76 0 0 =
+0-2.525 1.543 3.5 3.5 0 0 0-.372 1.634c-.01.57.123 1.13.383 1.642.245.475.6=
+22.869 1.086 1.135a3.43 3.43 0 0 0 2.932.151 2.4 2.4 0 0 0 .955-.756l-.703-=
+.896a1.94 1.94 0 0 1-1.524.675 1.84 1.84 0 0 1-1.213-.4 1.72 1.72 0 0 1-.60=
+4-1.089h4.397q.021-.28.021-.43zm-2.836-2.049a1.48 1.48 0 0 1 1.07.419c.295.=
+294.477.68.516 1.094h-3.182c.043-.417.231-.806.53-1.1A1.5 1.5 0 0 1 46 19.2=
+89m8.061-3.518v3.189a2.1 2.1 0 0 0-.787-.63 2.4 2.4 0 0 0-1.018-.209 2.69 2=
+.69 0 0 0-2.463 1.513 3.97 3.97 0 0 0 0 3.334 2.68 2.68 0 0 0 2.463 1.524c.=
+364.004.724-.071 1.056-.221a2.06 2.06 0 0 0 .803-.664v.803h1.26v-8.63h-1.31=
+9zm-1.646 7.475c-.3.005-.595-.077-.85-.235a1.65 1.65 0 0 1-.599-.681 2.5 2.=
+5 0 0 1 0-2.049c.132-.278.34-.514.598-.681a1.63 1.63 0 0 1 1.7 0c.26.167.46=
+7.403.599.681a2.5 2.5 0 0 1 0 2.049 1.66 1.66 0 0 1-.598.681 1.56 1.56 0 0 =
+1-.85.235m4.471 1.163h1.31v-6.215h-1.311zm4.963-6.284a4.3 4.3 0 0 0-1.313.1=
+98 3.1 3.1 0 0 0-1.055.57l.515 1.055a2.2 2.2 0 0 1 .772-.454c.297-.108.611-=
+.163.928-.163a1.42 1.42 0 0 1 1.045.352 1.35 1.35 0 0 1 .352 1.001v.093h-1.=
+454a2.6 2.6 0 0 0-1.769.507 1.72 1.72 0 0 0-.561 1.344 1.76 1.76 0 0 0 .986=
+ 1.624c.344.164.722.244 1.102.234.37.01.738-.064 1.075-.216a1.57 1.57 0 0 0=
+ .688-.622v.762h1.24v-3.644a2.7 2.7 0 0 0-.656-1.984 2.55 2.55 0 0 0-1.895-=
+.658m-.179 5.307a1.2 1.2 0 0 1-.786-.234.77.77 0 0 1-.284-.63q0-.82 1.134-.=
+82h1.352v.715a1.33 1.33 0 0 1-.54.716 1.57 1.57 0 0 1-.877.25zm13.76-7.17-1=
+.876 6.227-1.857-6.227h-1.262l-1.9 6.192-1.826-6.192h-1.417l2.435 8.147h1.4=
+57l1.847-6.029 1.816 6.029h1.45l2.435-8.147zm2.131 8.147h1.312v-6.215H77.56=
+zm7.054 0h1.595L83.647 20.8l2.346-2.607h-1.579l-2.72 2.794V15.78h-1.31v8.63=
+1h1.31v-1.642l.977-1.024zm2.183 0h1.312v-6.215h-1.313v6.215zm-29.252-7.036a=
+.82.82 0 0 0 .604-.235.8.8 0 0 0 .235-.586.7.7 0 0 0-.242-.545.86.86 0 0 0-=
+.598-.217.84.84 0 0 0-.598.227.78.78 0 0 0-.178.874.8.8 0 0 0 .178.258.84.8=
+4 0 0 0 .598.227zm20.676 0a.82.82 0 0 0 .604-.235.8.8 0 0 0 .235-.586.7.7 0=
+ 0 0-.242-.545.86.86 0 0 0-.598-.217.84.84 0 0 0-.598.227.78.78 0 0 0 0 1.1=
+32.84.84 0 0 0 .598.227zm9.236 0a.82.82 0 0 0 .604-.235.8.8 0 0 0 .234-.586=
+.7.7 0 0 0-.241-.545.86.86 0 0 0-.598-.217.84.84 0 0 0-.598.227.78.78 0 0 0=
+ 0 1.132.84.84 0 0 0 .598.227zM36.136 9.916c.416.007.83-.053 1.227-.177a2.5=
+ 2.5 0 0 0 .889-.498 2.14 2.14 0 0 0 .544-.762 2.5 2.5 0 0 0 .184-.974 2.6 =
+2.6 0 0 0-.17-.968 1.9 1.9 0 0 0-.525-.745 2.4 2.4 0 0 0-.886-.477 4.2 4.2 =
+0 0 0-1.258-.17h-2.279v7.574h1.087V9.916zm-1.187-3.914h1.188c.261-.005.522.=
+03.773.103.202.059.389.16.549.298.145.128.257.289.327.469.075.202.112.416.1=
+08.63.001.216-.039.429-.117.63a1.3 1.3 0 0 1-.336.487c-.16.142-.348.25-.551=
+.317-.244.08-.5.12-.757.117h-1.184zm5.993 1.47c-.308.12-.586.31-.813.55-.23=
+.25-.406.546-.515.868a3.74 3.74 0 0 0 0 2.288c.11.323.284.619.515.87.227.24=
+2.504.43.813.551a3.05 3.05 0 0 0 2.134 0c.306-.122.582-.31.807-.55a2.5 2.5 =
+0 0 0 .512-.871 3.74 3.74 0 0 0 0-2.288 2.5 2.5 0 0 0-.512-.868 2.2 2.2 0 0=
+ 0-.807-.55 3.05 3.05 0 0 0-2.134 0m-.095 4.023a2.4 2.4 0 0 1-.383-1.457 2.=
+43 2.43 0 0 1 .383-1.456 1.35 1.35 0 0 1 1.163-.522 1.33 1.33 0 0 1 1.15.52=
+2c.277.433.41.943.38 1.456a2.43 2.43 0 0 1-.38 1.457 1.34 1.34 0 0 1-1.15.5=
+17 1.35 1.35 0 0 1-1.163-.517m5.965 1.224h.755a.235.235 0 0 0 .228-.19l1.16=
+5-3.531q.041-.125.068-.254l.053-.256q.027.127.059.253c.032.126.045.168.072.=
+252l1.146 3.536a.21.21 0 0 0 .2.19h.792l1.731-5.356h-.755a.3.3 0 0 0-.29.2l=
+-1.003 3.34a9 9 0 0 0-.164.756 13 13 0 0 0-.196-.754L49.6 7.543a.27.27 0 0 =
+0-.1-.14.3.3 0 0 0-.183-.055h-.43a.275.275 0 0 0-.275.195l-1.087 3.36-.112.=
+386q-.052.185-.1.37a13 13 0 0 0-.153-.754l-.986-3.341a.3.3 0 0 0-.103-.142.=
+32.32 0 0 0-.199-.059h-.79zm8.24-5.235c-.3.13-.57.321-.791.562a2.5 2.5 0 0 =
+0-.499.84 3 3 0 0 0-.174 1.042c-.008.419.057.836.192 1.232.114.333.297.64.5=
+36.898.23.24.51.429.82.548a2.8 2.8 0 0 0 1.027.188q.294 0 .586-.047.297-.04=
+6.578-.15a2.7 2.7 0 0 0 .523-.258q.243-.155.427-.378l-.285-.363a.2.2 0 0 0-=
+.184-.095.44.44 0 0 0-.222.08 5 5 0 0 1-.308.174q-.21.106-.433.175a2 2 0 0 =
+1-.599.079 1.8 1.8 0 0 1-.67-.118 1.3 1.3 0 0 1-.516-.358 1.7 1.7 0 0 1-.33=
+7-.604 3 3 0 0 1-.14-.855h3.536a.2.2 0 0 0 .187-.079.65.65 0 0 0 .05-.312 2=
+.9 2.9 0 0 0-.168-1.021 2.04 2.04 0 0 0-1.182-1.22 2.5 2.5 0 0 0-.897-.162 =
+2.6 2.6 0 0 0-1.057.202m1.634.636a1.21 1.21 0 0 1 .681.751q.094.286.09.587h=
+-2.846a1.82 1.82 0 0 1 .47-1.056 1.58 1.58 0 0 1 1.605-.282m3.794 4.599V9.3=
+58q.091-.243.22-.47.11-.195.274-.349.152-.141.346-.215c.141-.052.291-.077.4=
+41-.074q.161-.001.319.031.108.027.22.032a.16.16 0 0 0 .168-.142l.07-.75a.8.=
+8 0 0 0-.273-.116 1.4 1.4 0 0 0-.33-.038 1.35 1.35 0 0 0-.886.306 2.4 2.4 0=
+ 0 0-.622.839l-.064-.781a.36.36 0 0 0-.082-.211.33.33 0 0 0-.224-.06h-.574v=
+5.359h1.002zm3.798-5.235c-.3.13-.57.321-.792.562a2.5 2.5 0 0 0-.498.84 3 3 =
+0 0 0-.175 1.042 3.6 3.6 0 0 0 .192 1.232c.114.333.297.64.536.898.23.24.51.=
+429.821.548a2.8 2.8 0 0 0 1.026.188q.294 0 .586-.047.296-.046.578-.15a2.7 2=
+.7 0 0 0 .523-.258 1.9 1.9 0 0 0 .427-.378l-.285-.363a.2.2 0 0 0-.184-.095.=
+44.44 0 0 0-.221.08 5 5 0 0 1-.309.174q-.21.106-.432.175a2 2 0 0 1-.6.079 1=
+.8 1.8 0 0 1-.67-.118 1.3 1.3 0 0 1-.515-.358 1.7 1.7 0 0 1-.338-.604 3 3 0=
+ 0 1-.14-.855h3.536a.2.2 0 0 0 .188-.079c.04-.1.056-.208.044-.315a2.9 2.9 0=
+ 0 0-.169-1.022 2.1 2.1 0 0 0-.469-.751 2 2 0 0 0-.713-.47 2.5 2.5 0 0 0-.8=
+97-.16 2.6 2.6 0 0 0-1.053.205zm1.633.636a1.2 1.2 0 0 1 .681.751q.094.286.0=
+9.587h-2.847a1.82 1.82 0 0 1 .47-1.056 1.58 1.58 0 0 1 1.604-.282zm7.259 4.=
+599V4.936h-1.003V7.88a1.83 1.83 0 0 0-1.446-.612 2.1 2.1 0 0 0-.965.214c-.2=
+82.14-.53.34-.728.586a2.7 2.7 0 0 0-.459.884 3.7 3.7 0 0 0-.158 1.106c-.006=
+.396.042.79.142 1.173.08.309.22.6.41.857.166.224.385.404.637.525.26.121.544=
+.181.832.177q.27.005.532-.06.245-.06.47-.181.222-.12.415-.285.198-.17.365-.=
+372l.09.629a.246.246 0 0 0 .263.2h.603zm-2.966-.842a1 1 0 0 1-.411-.344 1.7=
+ 1.7 0 0 1-.26-.599 3.7 3.7 0 0 1-.089-.876 2.46 2.46 0 0 1 .39-1.499 1.3 1=
+.3 0 0 1 1.115-.52 1.6 1.6 0 0 1 .665.136c.222.107.413.268.554.469v2.562a2.=
+2 2.2 0 0 1-.622.578 1.5 1.5 0 0 1-.787.203 1.35 1.35 0 0 1-.555-.11m7.747.=
+842a.234.234 0 0 0 .253-.211l.048-.46c.17.223.381.41.625.547.273.14.577.209=
+.884.198a2.06 2.06 0 0 0 1.682-.795c.209-.273.365-.582.46-.913.11-.384.165-=
+.782.16-1.182a4 4 0 0 0-.14-1.095 2.4 2.4 0 0 0-.403-.82 1.8 1.8 0 0 0-.641=
+-.52 1.9 1.9 0 0 0-.847-.182 2 2 0 0 0-.968.227 2.7 2.7 0 0 0-.758.612v-3.1=
+9h-1.004v7.784zm2.73-4.192c.263.42.385.913.347 1.407.04.549-.097 1.1-.39 1.=
+562a1.33 1.33 0 0 1-1.125.517 1.6 1.6 0 0 1-.655-.135 1.46 1.46 0 0 1-.554-=
+.469V8.861a2.3 2.3 0 0 1 .612-.587c.235-.139.505-.21.779-.202a1.17 1.17 0 0=
+ 1 .987.455m7.074-1.164h-.796a.3.3 0 0 0-.29.2l-1.34 3.262q-.048.117-.09.24=
+5l-.079.245a4 4 0 0 0-.142-.48l-1.387-3.272a.3.3 0 0 0-.301-.2h-.873l2.205 =
+5.029-.982 2.126h.747a.35.35 0 0 0 .228-.061.44.44 0 0 0 .117-.177z"/>
+	<path fill=3D"url(#p)" d=3D"M8.284 6.116A4.55 4.55 0 0 0 9.61 9.24a3.5 3.5=
+ 0 0 0 2.314.923 1.07 1.07 0 0 0 .736-.33 3.51 3.51 0 0 0 .821-3.373c-.623-=
+2.16-2.35-3.35-4.457-4.384a9.4 9.4 0 0 0-.741 4.038z" opacity=3D".65"/>
+	<path fill=3D"url(#i)" d=3D"M5.155 9.25a4.5 4.5 0 0 0 2.422 2.374c.806.293=
+ 1.69.28 2.488-.037.254-.117.452-.327.555-.586a3.51 3.51 0 0 0-.52-3.43c-1.=
+41-1.75-3.45-2.19-5.795-2.335a9.4 9.4 0 0 0 .85 4.013" opacity=3D".65"/>
+	<path fill=3D"url(#h)" d=3D"M3.465 13.345a4.48 4.48 0 0 0 3.143 1.262 3.5 =
+3.5 0 0 0 2.286-.99 1.1 1.1 0 0 0 .288-.756A3.52 3.52 0 0 0 7.39 9.89c-1.96=
+-1.08-4.02-.705-6.243.07a9.4 9.4 0 0 0 2.318 3.384" opacity=3D".65"/>
+	<path fill=3D"url(#g)" d=3D"M3.462 17.781c1.09.429 2.3.414 3.383-.041a3.52=
+ 3.52 0 0 0 1.734-1.793 1.1 1.1 0 0 0-.02-.81 3.49 3.49 0 0 0-2.786-2.054c-=
+2.231-.236-3.981.897-5.747 2.462a9.4 9.4 0 0 0 3.436 2.236" opacity=3D".65"=
+/>
+	<path fill=3D"url(#f)" d=3D"M5.148 21.877a4.5 4.5 0 0 0 3.11-1.338 3.53 3.=
+53 0 0 0 .92-2.323 1.1 1.1 0 0 0-.328-.74 3.48 3.48 0 0 0-3.357-.828c-2.15.=
+633-3.34 2.36-4.365 4.484a9.3 9.3 0 0 0 4.02.745" opacity=3D".65"/>
+	<path fill=3D"url(#e)" d=3D"M8.267 25.019a4.5 4.5 0 0 0 2.364-2.438c.292-.=
+81.28-1.7-.036-2.5a1.08 1.08 0 0 0-.586-.558 3.49 3.49 0 0 0-3.417.526c-1.7=
+4 1.41-2.18 3.46-2.325 5.821a9.3 9.3 0 0 0 4-.851" opacity=3D".65"/>
+	<path fill=3D"url(#d)" d=3D"M12.345 26.72a4.53 4.53 0 0 0 1.254-3.157 3.53=
+ 3.53 0 0 0-.987-2.296 1.08 1.08 0 0 0-.752-.29 3.49 3.49 0 0 0-2.952 1.8c-=
+1.07 1.97-.697 4.04.07 6.27a9.3 9.3 0 0 0 3.367-2.327" opacity=3D".65"/>
+	<path fill=3D"url(#c)" d=3D"M16.764 26.724c.427-1.1.412-2.32-.041-3.4a3.52=
+ 3.52 0 0 0-1.785-1.743 1.08 1.08 0 0 0-.806.02c-.554.25-1.03.639-1.392 1.1=
+3s-.584 1.07-.654 1.67c-.234 2.24.895 4 2.455 5.767a9.35 9.35 0 0 0 2.223-3=
+.444" opacity=3D".65"/>
+	<path fill=3D"url(#b)" d=3D"M20.84 25.031c-.022-1.18-.5-2.3-1.332-3.125a3.=
+5 3.5 0 0 0-2.314-.924 1.07 1.07 0 0 0-.736.33 3.51 3.51 0 0 0-.821 3.372c.=
+63 2.16 2.35 3.35 4.464 4.384a9.4 9.4 0 0 0 .739-4.037" opacity=3D".65"/>
+	<path fill=3D"url(#a)" d=3D"M23.966 21.897a4.5 4.5 0 0 0-2.421-2.375 3.5 3=
+.5 0 0 0-2.489.037 1.08 1.08 0 0 0-.555.586 3.51 3.51 0 0 0 .525 3.432c1.41=
+ 1.75 3.45 2.19 5.795 2.335a9.4 9.4 0 0 0-.855-4.015" opacity=3D".65"/>
+	<path fill=3D"url(#o)" d=3D"M25.659 17.801a4.48 4.48 0 0 0-3.142-1.263c-.8=
+57.04-1.67.391-2.285.99a1.1 1.1 0 0 0-.289.756 3.52 3.52 0 0 0 1.792 2.97c1=
+.96 1.08 4.02.704 6.244-.07a9.4 9.4 0 0 0-2.32-3.383" opacity=3D".65"/>
+	<path fill=3D"url(#n)" d=3D"M25.663 13.365a4.48 4.48 0 0 0-3.387.041 3.52 =
+3.52 0 0 0-1.734 1.793c-.098.263-.09.553.021.81a3.49 3.49 0 0 0 2.786 2.056=
+c2.23.234 3.98-.9 5.746-2.463a9.3 9.3 0 0 0-3.432-2.237" opacity=3D".65"/>
+	<path fill=3D"url(#m)" d=3D"M23.977 9.266a4.5 4.5 0 0 0-3.109 1.338 3.53 3=
+.53 0 0 0-.92 2.325c.011.28.129.545.33.74a3.48 3.48 0 0 0 3.357.828c2.15-.6=
+33 3.34-2.36 4.364-4.485a9.3 9.3 0 0 0-4.022-.746" opacity=3D".65"/>
+	<path fill=3D"url(#l)" d=3D"M20.858 6.127a4.52 4.52 0 0 0-2.364 2.432c-.29=
+2.81-.279 1.7.036 2.5.116.256.326.456.587.559a3.49 3.49 0 0 0 3.417-.527c1.=
+74-1.41 2.18-3.46 2.324-5.82a9.3 9.3 0 0 0-4 .856" opacity=3D".65"/>
+	<path fill=3D"url(#k)" d=3D"M16.78 4.426a4.55 4.55 0 0 0-1.257 3.157c.038.=
+86.388 1.68.985 2.296.204.19.474.295.753.29a3.49 3.49 0 0 0 2.957-1.8c1.07-=
+1.97.696-4.04-.07-6.272a9.3 9.3 0 0 0-3.368 2.329" opacity=3D".65"/>
+	<path fill=3D"url(#j)" d=3D"M12.364 4.422a4.55 4.55 0 0 0 .041 3.401 3.5 3=
+.5 0 0 0 1.785 1.741c.26.098.55.09.805-.02a3.54 3.54 0 0 0 1.393-1.13c.36-.=
+49.584-1.07.654-1.67.235-2.24-.895-4-2.455-5.767a9.35 9.35 0 0 0-2.223 3.44=
+5" opacity=3D".65"/>
+	<defs>
+		<linearGradient id=3D"p" x1=3D"-2.35" x2=3D"29.312" y1=3D"30.32" y2=3D"1.=
+004" gradientUnits=3D"userSpaceOnUse">
+			<stop offset=3D"0" stop-color=3D"#0A00B2"/>
+			<stop offset=3D".5" stop-color=3D"red"/>
+			<stop offset=3D"1" stop-color=3D"#FFFC00"/>
+		</linearGradient>
+		<linearGradient id=3D"i" x1=3D"-2.35" x2=3D"29.312" y1=3D"30.321" y2=3D"1=
+.004" gradientUnits=3D"userSpaceOnUse">
+			<stop offset=3D"0" stop-color=3D"#0A00B2"/>
+			<stop offset=3D".5" stop-color=3D"red"/>
+			<stop offset=3D"1" stop-color=3D"#FFFC00"/>
+		</linearGradient>
+		<linearGradient id=3D"h" x1=3D"-2.35" x2=3D"29.312" y1=3D"30.32" y2=3D"1.=
+004" gradientUnits=3D"userSpaceOnUse">
+			<stop offset=3D"0" stop-color=3D"#0A00B2"/>
+			<stop offset=3D".5" stop-color=3D"red"/>
+			<stop offset=3D"1" stop-color=3D"#FFFC00"/>
+		</linearGradient>
+		<linearGradient id=3D"g" x1=3D"-2.35" x2=3D"29.312" y1=3D"30.32" y2=3D"1.=
+004" gradientUnits=3D"userSpaceOnUse">
+			<stop offset=3D"0" stop-color=3D"#0A00B2"/>
+			<stop offset=3D".5" stop-color=3D"red"/>
+			<stop offset=3D"1" stop-color=3D"#FFFC00"/>
+		</linearGradient>
+		<linearGradient id=3D"f" x1=3D"-2.35" x2=3D"29.312" y1=3D"30.32" y2=3D"1.=
+004" gradientUnits=3D"userSpaceOnUse">
+			<stop offset=3D"0" stop-color=3D"#0A00B2"/>
+			<stop offset=3D".5" stop-color=3D"red"/>
+			<stop offset=3D"1" stop-color=3D"#FFFC00"/>
+		</linearGradient>
+		<linearGradient id=3D"e" x1=3D"-2.35" x2=3D"29.312" y1=3D"30.32" y2=3D"1.=
+004" gradientUnits=3D"userSpaceOnUse">
+			<stop offset=3D"0" stop-color=3D"#0A00B2"/>
+			<stop offset=3D".5" stop-color=3D"red"/>
+			<stop offset=3D"1" stop-color=3D"#FFFC00"/>
+		</linearGradient>
+		<linearGradient id=3D"d" x1=3D"-2.35" x2=3D"29.312" y1=3D"30.32" y2=3D"1.=
+004" gradientUnits=3D"userSpaceOnUse">
+			<stop offset=3D"0" stop-color=3D"#0A00B2"/>
+			<stop offset=3D".5" stop-color=3D"red"/>
+			<stop offset=3D"1" stop-color=3D"#FFFC00"/>
+		</linearGradient>
+		<linearGradient id=3D"c" x1=3D"-2.35" x2=3D"29.312" y1=3D"30.321" y2=3D"1=
+.004" gradientUnits=3D"userSpaceOnUse">
+			<stop offset=3D"0" stop-color=3D"#0A00B2"/>
+			<stop offset=3D".5" stop-color=3D"red"/>
+			<stop offset=3D"1" stop-color=3D"#FFFC00"/>
+		</linearGradient>
+		<linearGradient id=3D"b" x1=3D"-2.35" x2=3D"29.312" y1=3D"30.32" y2=3D"1.=
+004" gradientUnits=3D"userSpaceOnUse">
+			<stop offset=3D"0" stop-color=3D"#0A00B2"/>
+			<stop offset=3D".5" stop-color=3D"red"/>
+			<stop offset=3D"1" stop-color=3D"#FFFC00"/>
+		</linearGradient>
+		<linearGradient id=3D"a" x1=3D"-2.35" x2=3D"29.312" y1=3D"30.32" y2=3D"1.=
+004" gradientUnits=3D"userSpaceOnUse">
+			<stop offset=3D"0" stop-color=3D"#0A00B2"/>
+			<stop offset=3D".5" stop-color=3D"red"/>
+			<stop offset=3D"1" stop-color=3D"#FFFC00"/>
+		</linearGradient>
+		<linearGradient id=3D"o" x1=3D"-2.35" x2=3D"29.312" y1=3D"30.32" y2=3D"1.=
+004" gradientUnits=3D"userSpaceOnUse">
+			<stop offset=3D"0" stop-color=3D"#0A00B2"/>
+			<stop offset=3D".5" stop-color=3D"red"/>
+			<stop offset=3D"1" stop-color=3D"#FFFC00"/>
+		</linearGradient>
+		<linearGradient id=3D"n" x1=3D"-2.35" x2=3D"29.312" y1=3D"30.32" y2=3D"1.=
+004" gradientUnits=3D"userSpaceOnUse">
+			<stop offset=3D"0" stop-color=3D"#0A00B2"/>
+			<stop offset=3D".5" stop-color=3D"red"/>
+			<stop offset=3D"1" stop-color=3D"#FFFC00"/>
+		</linearGradient>
+		<linearGradient id=3D"m" x1=3D"-2.35" x2=3D"29.312" y1=3D"30.32" y2=3D"1.=
+004" gradientUnits=3D"userSpaceOnUse">
+			<stop offset=3D"0" stop-color=3D"#0A00B2"/>
+			<stop offset=3D".5" stop-color=3D"red"/>
+			<stop offset=3D"1" stop-color=3D"#FFFC00"/>
+		</linearGradient>
+		<linearGradient id=3D"l" x1=3D"-2.35" x2=3D"29.312" y1=3D"30.32" y2=3D"1.=
+004" gradientUnits=3D"userSpaceOnUse">
+			<stop offset=3D"0" stop-color=3D"#0A00B2"/>
+			<stop offset=3D".5" stop-color=3D"red"/>
+			<stop offset=3D"1" stop-color=3D"#FFFC00"/>
+		</linearGradient>
+		<linearGradient id=3D"k" x1=3D"-2.35" x2=3D"29.312" y1=3D"30.321" y2=3D"1=
+.004" gradientUnits=3D"userSpaceOnUse">
+			<stop offset=3D"0" stop-color=3D"#0A00B2"/>
+			<stop offset=3D".5" stop-color=3D"red"/>
+			<stop offset=3D"1" stop-color=3D"#FFFC00"/>
+		</linearGradient>
+		<linearGradient id=3D"j" x1=3D"-2.35" x2=3D"29.312" y1=3D"30.32" y2=3D"1.=
+004" gradientUnits=3D"userSpaceOnUse">
+			<stop offset=3D"0" stop-color=3D"#0A00B2"/>
+			<stop offset=3D".5" stop-color=3D"red"/>
+			<stop offset=3D"1" stop-color=3D"#FFFC00"/>
+		</linearGradient>
+	</defs>
+</svg>=0A
+------MultipartBoundary--LFkDdnIQT00sekIk53rVKLTGXx3uV8KTyEcfjODqt7----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.sqlzoo.net/static/malones.svg
 
 <svg version=3D"1.1" width=3D"400" height=3D"400" viewBox=3D"-1.1 -1.1 2.2 =
 2.2" xmlns=3D"http://www.w3.org/2000/svg">
@@ -1440,7 +1726,7 @@ ke-linejoin=3D"round" stroke-linecap=3D"round"></path>
 </g>
    =20
 </svg>=0A
-------MultipartBoundary--lsAqnstDkXZVgIgedDPxHGPVc2MDtCM4Sfs8t4ybBU----
+------MultipartBoundary--LFkDdnIQT00sekIk53rVKLTGXx3uV8KTyEcfjODqt7----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://www.sqlzoo.net/w/images/thumb/4/45/DuplicatesGame.png/200px-DuplicatesGame.png
@@ -1761,7 +2047,7 @@ WOBG5gAAABd0RVh0VGh1bWI6OkltYWdlOjpXaWR0aAA2MzTFb3oyAAAAGXRFWHRUaHVtYjo6TWlt
 ZXR5cGUAaW1hZ2UvcG5nP7JWTgAAABd0RVh0VGh1bWI6Ok1UaW1lADE2NTE1MDIzMjbPT1plAAAA
 E3RFWHRUaHVtYjo6U2l6ZQAyMDI2OEJCdUkjcgAAAABJRU5ErkJggg==
 
-------MultipartBoundary--lsAqnstDkXZVgIgedDPxHGPVc2MDtCM4Sfs8t4ybBU----
+------MultipartBoundary--LFkDdnIQT00sekIk53rVKLTGXx3uV8KTyEcfjODqt7----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://static.prd.datawars.io/brand/icon-transparent-bg.png
@@ -1789,10 +2075,10 @@ H+okM4klVlTX1FArmVGeWBGtvnos6iUzyhIronWuupKM5DZCsfYGwBxm5DYR2+1NkpKZyKV1xWpP
 9iVpyUygWPsF/0duknKZLCQzPkvraolxfZCVZCbV0rqhyFIyk0pp3dBkLZnRWFo3JkVIZlqldZfa
 Exg++QuYAZMHeftEfQAAAABJRU5ErkJggg==
 
-------MultipartBoundary--lsAqnstDkXZVgIgedDPxHGPVc2MDtCM4Sfs8t4ybBU----
+------MultipartBoundary--LFkDdnIQT00sekIk53rVKLTGXx3uV8KTyEcfjODqt7----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
-Content-Location: https://sqlzoo.net/design/done9.png
+Content-Location: https://www.sqlzoo.net/static/smiley.png
 
 iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABGdBTUEAAK/INwWK6QAAAaJpQ0NQ
 SUNDIFByb2ZpbGUAAHgBrZI7SMNAGMf/iVRBqotPBCFDfQxVii4tiNB2UNEhlkrVRdIkxkJNwyVW
@@ -2130,10 +2416,10 @@ fiH8IWw97VceKX4WgyGmHMERQeajTDlZ6Kzy4XHPHlzs+/BJvbW4YvJz4AZQeV6S8FIXgNGILoZj
 DuYFQEuHbyBHK6c0NnT5v+Ml5mL+BYHAOQAHKHCAAgcocIACByhwgAIHKHCAAgcocIACByhwgAIH
 KHCAAgco8NKkwP8HCcgIRiFIHPEAAAAASUVORK5CYII=
 
-------MultipartBoundary--lsAqnstDkXZVgIgedDPxHGPVc2MDtCM4Sfs8t4ybBU----
+------MultipartBoundary--LFkDdnIQT00sekIk53rVKLTGXx3uV8KTyEcfjODqt7----
 Content-Type: image/gif
 Content-Transfer-Encoding: base64
-Content-Location: https://sqlzoo.net/design/ajax-loader.gif
+Content-Location: https://www.sqlzoo.net/static/ajax-loader.gif
 
 R0lGODlhQgBCAPMAANrl2QAAAEFEQGhtaLzGu4mQiNTf0xgZF6aupQAAAAAAAAAAAAAAAAAAAAAA
 AAAAACH+GkNyZWF0ZWQgd2l0aCBhamF4bG9hZC5pbmZvACH5BAAKAAAAIf8LTkVUU0NBUEUyLjAD
@@ -2256,10 +2542,10 @@ gLQSlq5QauuW1axJpvac4/QUAW+GKGo2G3ZEwxl4ws5QZE3qzSU9R80NIHO5fUsUMX82/II4drcj
 FXGR8EdxgPMYoyKHCmhmoM1V9/s9iyIait6x1+mIXEjrNeKmw59SMUSR6l5UE1EjM9txN1049RUU
 lR771fFfUw1OEJUF38E0TzURJkLbUR31EwEAOwAAAAAAAAAAAA==
 
-------MultipartBoundary--lsAqnstDkXZVgIgedDPxHGPVc2MDtCM4Sfs8t4ybBU----
+------MultipartBoundary--LFkDdnIQT00sekIk53rVKLTGXx3uV8KTyEcfjODqt7----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://www.sqlzoo.net/sqlzoo.css
+Content-Location: https://www.sqlzoo.net/static/sqlzoo.css
 
 @charset "utf-8";
 
@@ -2367,9 +2653,8 @@ div.res { margin-top: 1ex; background: rgb(218, 229, 217); color: rgb(59, 6=
 7, 78); border: 1px inset; padding: 1em; border-radius: 0.5ex; box-shadow: =
 rgb(59, 67, 78) 1px 1px 3px; height: 20em; overflow: auto; resize: both; }
 
-div.res.waiting { background-image: url("https://sqlzoo.net/design/ajax-loa=
-der.gif"); background-repeat: no-repeat; background-position: center center=
-; }
+div.res.waiting { background-image: url("/static/ajax-loader.gif"); backgro=
+und-repeat: no-repeat; background-position: center center; }
 
 textarea.sql { width: 100%; box-shadow: rgb(59, 67, 78) 1px 1px 3px; border=
 -style: inset; border-width: 1px; border-radius: 1ex; padding: 0.5ex; margi=
@@ -2383,10 +2668,9 @@ er-color: rgb(36, 85, 128); border-width: 1px; cursor: pointer; }
 .quf button.reset { font-size: smaller; border: 1px solid; margin-left: 6em=
 ; padding: 0.5ex; border-radius: 0.5ex; }
 
-.qcorrect { background-image: url("https://sqlzoo.net/design/done9.png"); }
+.qcorrect { background-image: url("/static/smiley.png"); }
 
-.qincorrect { background-image: url("https://sqlzoo.net/design/undone9.png"=
-); }
+.qincorrect { background-image: url("/static/unsmiley.png"); }
 
 .qcorrect, .qincorrect { width: 3em; height: 3em; position: absolute; margi=
 n: 0em 0px 0px 5em; background-size: 3em; background-repeat: no-repeat; bac=
@@ -2452,14 +2736,14 @@ lor: red; }
 font-size: large; box-shadow: rgb(207, 209, 186) 0.2ex 0.2ex; }
 
 td.sign { vertical-align: middle; display: none; }
-------MultipartBoundary--lsAqnstDkXZVgIgedDPxHGPVc2MDtCM4Sfs8t4ybBU----
+------MultipartBoundary--LFkDdnIQT00sekIk53rVKLTGXx3uV8KTyEcfjODqt7----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://www.sqlzoo.net/w/load.php?lang=en-gb&modules=site.styles&only=styles&skin=timeless
 
 @charset "utf-8";
 =0A
-------MultipartBoundary--lsAqnstDkXZVgIgedDPxHGPVc2MDtCM4Sfs8t4ybBU----
+------MultipartBoundary--LFkDdnIQT00sekIk53rVKLTGXx3uV8KTyEcfjODqt7----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://www.sqlzoo.net/w/skins/Timeless/resources/images/cat.svg?558fd
@@ -2752,7 +3036,7 @@ c-2.118 37.424-26.935 74.227-49.722 99.973 22.153-20.409 51.202-59.405 57.3=
 .824c-3.657-.338-7.786-4.467-12.23-11.138z"/>
 	</g>
 </svg>=0A
-------MultipartBoundary--lsAqnstDkXZVgIgedDPxHGPVc2MDtCM4Sfs8t4ybBU----
+------MultipartBoundary--LFkDdnIQT00sekIk53rVKLTGXx3uV8KTyEcfjODqt7----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://www.sqlzoo.net/w/skins/Timeless/resources/images/magnify-ltr.svg?d8c9d
@@ -2763,7 +3047,7 @@ Content-Location: https://www.sqlzoo.net/w/skins/Timeless/resources/images/magni
 		<path d=3D"M11 11v7H2v-7zm-2 2H4v3h5z"/>
 	</g>
 </svg>=0A
-------MultipartBoundary--lsAqnstDkXZVgIgedDPxHGPVc2MDtCM4Sfs8t4ybBU----
+------MultipartBoundary--LFkDdnIQT00sekIk53rVKLTGXx3uV8KTyEcfjODqt7----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://www.sqlzoo.net/w/resources/src/mediawiki.skinning/images/external-ltr.svg?c652e
@@ -2776,7 +3060,7 @@ l1 1-2.25 3h-1l2-3z"/>
 	<path fill=3D"#15a5ea" d=3D"M4.082 5.51c0-.621.621-.621.621-.621q2.796.932=
  3.728 3.728s0 .621-.62.621C6.566 7.374 5.945 6.753 4.081 5.51z"/>
 </svg>=0A
-------MultipartBoundary--lsAqnstDkXZVgIgedDPxHGPVc2MDtCM4Sfs8t4ybBU----
+------MultipartBoundary--LFkDdnIQT00sekIk53rVKLTGXx3uV8KTyEcfjODqt7----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://www.sqlzoo.net/w/load.php?lang=en-gb&modules=ext.pygments%7Cskins.timeless&only=styles&skin=timeless
@@ -2937,14 +3221,318 @@ span.linenos.special { color: rgb(0, 0, 0); background-color: rgb(255, 255,=
 
 .mw-highlight .il { color: rgb(102, 102, 102); }
 
+@media screen {
+  .skin-theme-clientpref-night .mw-highlight .hll { background-color: rgb(7=
+3, 72, 62); }
+  .skin-theme-clientpref-night .mw-highlight { background: rgb(39, 40, 34);=
+ color: rgb(248, 248, 242); }
+  .skin-theme-clientpref-night .mw-highlight .c { color: rgb(149, 144, 119)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .err { color: rgb(237, 0, 126)=
+; background-color: rgb(30, 0, 16); }
+  .skin-theme-clientpref-night .mw-highlight .esc { color: rgb(248, 248, 24=
+2); }
+  .skin-theme-clientpref-night .mw-highlight .g { color: rgb(248, 248, 242)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .k { color: rgb(102, 217, 239)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .l { color: rgb(174, 129, 255)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .n { color: rgb(248, 248, 242)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .o { color: rgb(255, 70, 137);=
+ }
+  .skin-theme-clientpref-night .mw-highlight .x { color: rgb(248, 248, 242)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .p { color: rgb(248, 248, 242)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .ch { color: rgb(149, 144, 119=
+); }
+  .skin-theme-clientpref-night .mw-highlight .cm { color: rgb(149, 144, 119=
+); }
+  .skin-theme-clientpref-night .mw-highlight .cp { color: rgb(149, 144, 119=
+); }
+  .skin-theme-clientpref-night .mw-highlight .cpf { color: rgb(149, 144, 11=
+9); }
+  .skin-theme-clientpref-night .mw-highlight .c1 { color: rgb(149, 144, 119=
+); }
+  .skin-theme-clientpref-night .mw-highlight .cs { color: rgb(149, 144, 119=
+); }
+  .skin-theme-clientpref-night .mw-highlight .gd { color: rgb(255, 70, 137)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .ge { color: rgb(248, 248, 242=
+); font-style: italic; }
+  .skin-theme-clientpref-night .mw-highlight .ges { color: rgb(248, 248, 24=
+2); font-weight: bold; font-style: italic; }
+  .skin-theme-clientpref-night .mw-highlight .gr { color: rgb(248, 248, 242=
+); }
+  .skin-theme-clientpref-night .mw-highlight .gh { color: rgb(248, 248, 242=
+); }
+  .skin-theme-clientpref-night .mw-highlight .gi { color: rgb(166, 226, 46)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .go { color: rgb(102, 217, 239=
+); }
+  .skin-theme-clientpref-night .mw-highlight .gp { color: rgb(255, 70, 137)=
+; font-weight: bold; }
+  .skin-theme-clientpref-night .mw-highlight .gs { color: rgb(248, 248, 242=
+); font-weight: bold; }
+  .skin-theme-clientpref-night .mw-highlight .gu { color: rgb(149, 144, 119=
+); }
+  .skin-theme-clientpref-night .mw-highlight .gt { color: rgb(248, 248, 242=
+); }
+  .skin-theme-clientpref-night .mw-highlight .kc { color: rgb(102, 217, 239=
+); }
+  .skin-theme-clientpref-night .mw-highlight .kd { color: rgb(102, 217, 239=
+); }
+  .skin-theme-clientpref-night .mw-highlight .kn { color: rgb(255, 70, 137)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .kp { color: rgb(102, 217, 239=
+); }
+  .skin-theme-clientpref-night .mw-highlight .kr { color: rgb(102, 217, 239=
+); }
+  .skin-theme-clientpref-night .mw-highlight .kt { color: rgb(102, 217, 239=
+); }
+  .skin-theme-clientpref-night .mw-highlight .ld { color: rgb(230, 219, 116=
+); }
+  .skin-theme-clientpref-night .mw-highlight .m { color: rgb(174, 129, 255)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .s { color: rgb(230, 219, 116)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .na { color: rgb(166, 226, 46)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .nb { color: rgb(248, 248, 242=
+); }
+  .skin-theme-clientpref-night .mw-highlight .nc { color: rgb(166, 226, 46)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .no { color: rgb(102, 217, 239=
+); }
+  .skin-theme-clientpref-night .mw-highlight .nd { color: rgb(166, 226, 46)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .ni { color: rgb(248, 248, 242=
+); }
+  .skin-theme-clientpref-night .mw-highlight .ne { color: rgb(166, 226, 46)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .nf { color: rgb(166, 226, 46)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .nl { color: rgb(248, 248, 242=
+); }
+  .skin-theme-clientpref-night .mw-highlight .nn { color: rgb(248, 248, 242=
+); }
+  .skin-theme-clientpref-night .mw-highlight .nx { color: rgb(166, 226, 46)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .py { color: rgb(248, 248, 242=
+); }
+  .skin-theme-clientpref-night .mw-highlight .nt { color: rgb(255, 70, 137)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .nv { color: rgb(248, 248, 242=
+); }
+  .skin-theme-clientpref-night .mw-highlight .ow { color: rgb(255, 70, 137)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .pm { color: rgb(248, 248, 242=
+); }
+  .skin-theme-clientpref-night .mw-highlight .w { color: rgb(248, 248, 242)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .mb { color: rgb(174, 129, 255=
+); }
+  .skin-theme-clientpref-night .mw-highlight .mf { color: rgb(174, 129, 255=
+); }
+  .skin-theme-clientpref-night .mw-highlight .mh { color: rgb(174, 129, 255=
+); }
+  .skin-theme-clientpref-night .mw-highlight .mi { color: rgb(174, 129, 255=
+); }
+  .skin-theme-clientpref-night .mw-highlight .mo { color: rgb(174, 129, 255=
+); }
+  .skin-theme-clientpref-night .mw-highlight .sa { color: rgb(230, 219, 116=
+); }
+  .skin-theme-clientpref-night .mw-highlight .sb { color: rgb(230, 219, 116=
+); }
+  .skin-theme-clientpref-night .mw-highlight .sc { color: rgb(230, 219, 116=
+); }
+  .skin-theme-clientpref-night .mw-highlight .dl { color: rgb(230, 219, 116=
+); }
+  .skin-theme-clientpref-night .mw-highlight .sd { color: rgb(230, 219, 116=
+); }
+  .skin-theme-clientpref-night .mw-highlight .s2 { color: rgb(230, 219, 116=
+); }
+  .skin-theme-clientpref-night .mw-highlight .se { color: rgb(174, 129, 255=
+); }
+  .skin-theme-clientpref-night .mw-highlight .sh { color: rgb(230, 219, 116=
+); }
+  .skin-theme-clientpref-night .mw-highlight .si { color: rgb(230, 219, 116=
+); }
+  .skin-theme-clientpref-night .mw-highlight .sx { color: rgb(230, 219, 116=
+); }
+  .skin-theme-clientpref-night .mw-highlight .sr { color: rgb(230, 219, 116=
+); }
+  .skin-theme-clientpref-night .mw-highlight .s1 { color: rgb(230, 219, 116=
+); }
+  .skin-theme-clientpref-night .mw-highlight .ss { color: rgb(230, 219, 116=
+); }
+  .skin-theme-clientpref-night .mw-highlight .bp { color: rgb(248, 248, 242=
+); }
+  .skin-theme-clientpref-night .mw-highlight .fm { color: rgb(166, 226, 46)=
+; }
+  .skin-theme-clientpref-night .mw-highlight .vc { color: rgb(248, 248, 242=
+); }
+  .skin-theme-clientpref-night .mw-highlight .vg { color: rgb(248, 248, 242=
+); }
+  .skin-theme-clientpref-night .mw-highlight .vi { color: rgb(248, 248, 242=
+); }
+  .skin-theme-clientpref-night .mw-highlight .vm { color: rgb(248, 248, 242=
+); }
+  .skin-theme-clientpref-night .mw-highlight .il { color: rgb(174, 129, 255=
+); }
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  .skin-theme-clientpref-os .mw-highlight .hll { background-color: rgb(73, =
+72, 62); }
+  .skin-theme-clientpref-os .mw-highlight { background: rgb(39, 40, 34); co=
+lor: rgb(248, 248, 242); }
+  .skin-theme-clientpref-os .mw-highlight .c { color: rgb(149, 144, 119); }
+  .skin-theme-clientpref-os .mw-highlight .err { color: rgb(237, 0, 126); b=
+ackground-color: rgb(30, 0, 16); }
+  .skin-theme-clientpref-os .mw-highlight .esc { color: rgb(248, 248, 242);=
+ }
+  .skin-theme-clientpref-os .mw-highlight .g { color: rgb(248, 248, 242); }
+  .skin-theme-clientpref-os .mw-highlight .k { color: rgb(102, 217, 239); }
+  .skin-theme-clientpref-os .mw-highlight .l { color: rgb(174, 129, 255); }
+  .skin-theme-clientpref-os .mw-highlight .n { color: rgb(248, 248, 242); }
+  .skin-theme-clientpref-os .mw-highlight .o { color: rgb(255, 70, 137); }
+  .skin-theme-clientpref-os .mw-highlight .x { color: rgb(248, 248, 242); }
+  .skin-theme-clientpref-os .mw-highlight .p { color: rgb(248, 248, 242); }
+  .skin-theme-clientpref-os .mw-highlight .ch { color: rgb(149, 144, 119); =
+}
+  .skin-theme-clientpref-os .mw-highlight .cm { color: rgb(149, 144, 119); =
+}
+  .skin-theme-clientpref-os .mw-highlight .cp { color: rgb(149, 144, 119); =
+}
+  .skin-theme-clientpref-os .mw-highlight .cpf { color: rgb(149, 144, 119);=
+ }
+  .skin-theme-clientpref-os .mw-highlight .c1 { color: rgb(149, 144, 119); =
+}
+  .skin-theme-clientpref-os .mw-highlight .cs { color: rgb(149, 144, 119); =
+}
+  .skin-theme-clientpref-os .mw-highlight .gd { color: rgb(255, 70, 137); }
+  .skin-theme-clientpref-os .mw-highlight .ge { color: rgb(248, 248, 242); =
+font-style: italic; }
+  .skin-theme-clientpref-os .mw-highlight .ges { color: rgb(248, 248, 242);=
+ font-weight: bold; font-style: italic; }
+  .skin-theme-clientpref-os .mw-highlight .gr { color: rgb(248, 248, 242); =
+}
+  .skin-theme-clientpref-os .mw-highlight .gh { color: rgb(248, 248, 242); =
+}
+  .skin-theme-clientpref-os .mw-highlight .gi { color: rgb(166, 226, 46); }
+  .skin-theme-clientpref-os .mw-highlight .go { color: rgb(102, 217, 239); =
+}
+  .skin-theme-clientpref-os .mw-highlight .gp { color: rgb(255, 70, 137); f=
+ont-weight: bold; }
+  .skin-theme-clientpref-os .mw-highlight .gs { color: rgb(248, 248, 242); =
+font-weight: bold; }
+  .skin-theme-clientpref-os .mw-highlight .gu { color: rgb(149, 144, 119); =
+}
+  .skin-theme-clientpref-os .mw-highlight .gt { color: rgb(248, 248, 242); =
+}
+  .skin-theme-clientpref-os .mw-highlight .kc { color: rgb(102, 217, 239); =
+}
+  .skin-theme-clientpref-os .mw-highlight .kd { color: rgb(102, 217, 239); =
+}
+  .skin-theme-clientpref-os .mw-highlight .kn { color: rgb(255, 70, 137); }
+  .skin-theme-clientpref-os .mw-highlight .kp { color: rgb(102, 217, 239); =
+}
+  .skin-theme-clientpref-os .mw-highlight .kr { color: rgb(102, 217, 239); =
+}
+  .skin-theme-clientpref-os .mw-highlight .kt { color: rgb(102, 217, 239); =
+}
+  .skin-theme-clientpref-os .mw-highlight .ld { color: rgb(230, 219, 116); =
+}
+  .skin-theme-clientpref-os .mw-highlight .m { color: rgb(174, 129, 255); }
+  .skin-theme-clientpref-os .mw-highlight .s { color: rgb(230, 219, 116); }
+  .skin-theme-clientpref-os .mw-highlight .na { color: rgb(166, 226, 46); }
+  .skin-theme-clientpref-os .mw-highlight .nb { color: rgb(248, 248, 242); =
+}
+  .skin-theme-clientpref-os .mw-highlight .nc { color: rgb(166, 226, 46); }
+  .skin-theme-clientpref-os .mw-highlight .no { color: rgb(102, 217, 239); =
+}
+  .skin-theme-clientpref-os .mw-highlight .nd { color: rgb(166, 226, 46); }
+  .skin-theme-clientpref-os .mw-highlight .ni { color: rgb(248, 248, 242); =
+}
+  .skin-theme-clientpref-os .mw-highlight .ne { color: rgb(166, 226, 46); }
+  .skin-theme-clientpref-os .mw-highlight .nf { color: rgb(166, 226, 46); }
+  .skin-theme-clientpref-os .mw-highlight .nl { color: rgb(248, 248, 242); =
+}
+  .skin-theme-clientpref-os .mw-highlight .nn { color: rgb(248, 248, 242); =
+}
+  .skin-theme-clientpref-os .mw-highlight .nx { color: rgb(166, 226, 46); }
+  .skin-theme-clientpref-os .mw-highlight .py { color: rgb(248, 248, 242); =
+}
+  .skin-theme-clientpref-os .mw-highlight .nt { color: rgb(255, 70, 137); }
+  .skin-theme-clientpref-os .mw-highlight .nv { color: rgb(248, 248, 242); =
+}
+  .skin-theme-clientpref-os .mw-highlight .ow { color: rgb(255, 70, 137); }
+  .skin-theme-clientpref-os .mw-highlight .pm { color: rgb(248, 248, 242); =
+}
+  .skin-theme-clientpref-os .mw-highlight .w { color: rgb(248, 248, 242); }
+  .skin-theme-clientpref-os .mw-highlight .mb { color: rgb(174, 129, 255); =
+}
+  .skin-theme-clientpref-os .mw-highlight .mf { color: rgb(174, 129, 255); =
+}
+  .skin-theme-clientpref-os .mw-highlight .mh { color: rgb(174, 129, 255); =
+}
+  .skin-theme-clientpref-os .mw-highlight .mi { color: rgb(174, 129, 255); =
+}
+  .skin-theme-clientpref-os .mw-highlight .mo { color: rgb(174, 129, 255); =
+}
+  .skin-theme-clientpref-os .mw-highlight .sa { color: rgb(230, 219, 116); =
+}
+  .skin-theme-clientpref-os .mw-highlight .sb { color: rgb(230, 219, 116); =
+}
+  .skin-theme-clientpref-os .mw-highlight .sc { color: rgb(230, 219, 116); =
+}
+  .skin-theme-clientpref-os .mw-highlight .dl { color: rgb(230, 219, 116); =
+}
+  .skin-theme-clientpref-os .mw-highlight .sd { color: rgb(230, 219, 116); =
+}
+  .skin-theme-clientpref-os .mw-highlight .s2 { color: rgb(230, 219, 116); =
+}
+  .skin-theme-clientpref-os .mw-highlight .se { color: rgb(174, 129, 255); =
+}
+  .skin-theme-clientpref-os .mw-highlight .sh { color: rgb(230, 219, 116); =
+}
+  .skin-theme-clientpref-os .mw-highlight .si { color: rgb(230, 219, 116); =
+}
+  .skin-theme-clientpref-os .mw-highlight .sx { color: rgb(230, 219, 116); =
+}
+  .skin-theme-clientpref-os .mw-highlight .sr { color: rgb(230, 219, 116); =
+}
+  .skin-theme-clientpref-os .mw-highlight .s1 { color: rgb(230, 219, 116); =
+}
+  .skin-theme-clientpref-os .mw-highlight .ss { color: rgb(230, 219, 116); =
+}
+  .skin-theme-clientpref-os .mw-highlight .bp { color: rgb(248, 248, 242); =
+}
+  .skin-theme-clientpref-os .mw-highlight .fm { color: rgb(166, 226, 46); }
+  .skin-theme-clientpref-os .mw-highlight .vc { color: rgb(248, 248, 242); =
+}
+  .skin-theme-clientpref-os .mw-highlight .vg { color: rgb(248, 248, 242); =
+}
+  .skin-theme-clientpref-os .mw-highlight .vi { color: rgb(248, 248, 242); =
+}
+  .skin-theme-clientpref-os .mw-highlight .vm { color: rgb(248, 248, 242); =
+}
+  .skin-theme-clientpref-os .mw-highlight .il { color: rgb(174, 129, 255); =
+}
+}
+
 .mw-highlight { unicode-bidi: embed; }
 
-.mw-highlight pre { tab-size: 4; position: relative; }
+div.mw-highlight { position: relative; display: flow-root; margin: 1em 0px;=
+ }
 
-code code.mw-highlight { background-color: transparent; border: 0px; paddin=
-g: 0px; }
+.mw-highlight pre { margin: 0px; tab-size: 4; }
 
-div.mw-highlight { background-color: inherit; }
+code code.mw-highlight { background-color: transparent; color: inherit; bor=
+der: 0px; padding: 0px; }
 
 .mw-highlight .err { border: 0px; }
 
@@ -2953,21 +3541,21 @@ div.mw-highlight { background-color: inherit; }
 .mw-highlight-lines pre, .content .mw-highlight-lines pre { }
 
 .mw-content-ltr.mw-highlight-lines pre, .mw-content-ltr.content .mw-highlig=
-ht-lines pre { padding-left: 3.5em; box-shadow: rgb(240, 240, 240) 2.75em 0=
+ht-lines pre { padding-left: 3.5em; box-shadow: rgb(234, 236, 240) 2.75em 0=
 px 0px inset; }
 
 .mw-content-ltr.mw-highlight-lines pre .hll, .mw-content-ltr.content .mw-hi=
 ghlight-lines pre .hll { margin-left: -3.5em; padding-left: 3.5em; }
 
 .mw-content-rtl.mw-highlight-lines pre, .mw-content-rtl.content .mw-highlig=
-ht-lines pre { padding-right: 3.5em; box-shadow: rgb(240, 240, 240) -2.75em=
+ht-lines pre { padding-right: 3.5em; box-shadow: rgb(234, 236, 240) -2.75em=
  0px 0px inset; }
 
 .mw-content-rtl.mw-highlight-lines pre .hll, .mw-content-rtl.content .mw-hi=
 ghlight-lines pre .hll { margin-right: -3.5em; padding-right: 3.5em; }
 
 .mw-highlight .linenos { position: absolute; box-sizing: border-box; width:=
- 2.75em; background: none; color: rgb(114, 119, 125); white-space: pre; }
+ 2.75em; background: none; color: rgb(118, 118, 118); white-space: pre; }
 
 .mw-content-ltr.mw-highlight .linenos { left: 0px; text-align: right; margi=
 n-right: 4px; }
@@ -2978,7 +3566,7 @@ n-left: 4px; }
 .mw-highlight .linenos::before { content: attr(data-line); }
 
 .mw-highlight a:hover .linenos, .mw-highlight .hll a .linenos { color: rgb(=
-51, 51, 51); }
+68, 68, 68); }
 
 @media (prefers-reduced-motion: reduce) {
   *, ::before, ::after { animation-delay: -0.01ms !important; animation-dur=
@@ -2986,51 +3574,18 @@ ation: 0.01ms !important; animation-iteration-count: 1 !important; scroll-b=
 ehavior: auto !important; transition-duration: 0ms !important; }
 }
 
-.mw-message-box { background-color: rgb(238, 238, 238); color: rgb(0, 0, 0)=
-; box-sizing: border-box; margin-bottom: 16px; border: 1px solid rgb(170, 1=
-70, 170); padding: 12px 24px; overflow-wrap: break-word; overflow: hidden; =
-}
-
-.mw-message-box > :only-child { margin: 0px; }
-
-.mw-message-box h2 { color: inherit; display: block; border: 0px; font-size=
-: 1em; font-weight: bold; }
-
-.mw-message-box .mw-logevent-loglines li { font-size: 90%; }
-
-.mw-message-box-error { background-color: rgb(254, 231, 230); border-color:=
- rgb(221, 0, 51); }
-
-.mw-message-box-warning { background-color: rgb(254, 246, 231); border-colo=
-r: rgb(237, 171, 0); }
-
-.mw-message-box-success { background-color: rgb(213, 253, 244); border-colo=
-r: rgb(20, 134, 109); }
-
 .toctogglecheckbox:checked ~ ul { display: none; }
 
-.mw-wiki-logo { background-image: url("/malones.svg"); }
-
-@media print {
-  .mw-editsection, .mw-editsection-like, .mw-indicators, #siteNotice, .user=
-message { display: none; }
-  .printfooter { padding: 1em 0px; }
-  .toctogglecheckbox:checked + .toctitle { display: none; }
-  .toc { background-color: rgb(249, 249, 249); border: 1pt solid rgb(170, 1=
-70, 170); padding: 5px; display: table; }
-  .tocnumber, .toctext { display: table-cell; }
-  .tocnumber { padding-left: 0px; padding-right: 0.5em; }
-  .mw-content-ltr .tocnumber { padding-left: 0px; padding-right: 0.5em; }
-  .mw-content-rtl .tocnumber { padding-left: 0.5em; padding-right: 0px; }
-}
+.tocnumber { padding-left: 0px; padding-right: 0.5em; padding-inline: 0px 0=
+.5em; }
 
 @media screen {
   a.new { color: rgb(221, 0, 51); }
+  a.new:visited { color: rgb(165, 88, 88); }
   a.mw-selflink { color: inherit; font-weight: bold; text-decoration: inher=
 it; }
   a.mw-selflink:hover { cursor: inherit; text-decoration: inherit; }
   a.mw-selflink:active, a.mw-selflink:visited { color: inherit; }
-  a.new:visited { color: rgb(165, 88, 88); }
   .mw-parser-output a.extiw, .mw-parser-output a.external { color: rgb(51, =
 102, 187); }
   .mw-parser-output a.extiw:visited, .mw-parser-output a.external:visited {=
@@ -3077,8 +3632,16 @@ r-output a.external[href*=3D".PDF#"], .mw-parser-output a.external[href*=3D=
 ".pdf?"], .mw-parser-output a.external[href*=3D".PDF?"], .link-document { b=
 ackground-image: url("/w/resources/src/mediawiki.skinning/images/document-l=
 tr.svg?0bf90"); }
+  .mw-body-content::after { clear: both; content: ""; display: block; }
+  .mw-body-content a.external.free { overflow-wrap: break-word; }
+  .mw-body-content .error { font-size: larger; color: rgb(221, 0, 51); }
+  .rtl .mw-parser-output a.external.free, .rtl .mw-parser-output a.external=
+.autonumber { direction: ltr; unicode-bidi: embed; }
+  .mw-hide-empty-elt .mw-parser-output:not(.mw-show-empty-elt) .mw-empty-el=
+t { display: none; }
   .emptyPortlet { display: none; }
   .printfooter, .client-nojs #t-print { display: none; }
+  .noresize { max-width: 100%; overflow-x: auto; }
   @counter-style meetei { system: numeric; symbols: "=EA=AF=B0" "=EA=AF=B1"=
  "=EA=AF=B2" "=EA=AF=B3" "=EA=AF=B4" "=EA=AF=B5" "=EA=AF=B6" "=EA=AF=B7" "=
 =EA=AF=B8" "=EA=AF=B9"; suffix: ") "; }
@@ -3100,68 +3663,79 @@ yle-type: devanagari; }
   ol:lang(sat) li { list-style-type: santali; }
   ol:lang(blk) li, ol:lang(kjp) li, ol:lang(ksw) li, ol:lang(mnw) li, ol:la=
 ng(my) li, ol:lang(shn) li { list-style-type: myanmar_with_period; }
-  .mw-content-ltr ul, .mw-content-rtl .mw-content-ltr ul { margin: 0.3em 0p=
-x 0px 1.6em; padding: 0px; }
-  .mw-content-rtl ul, .mw-content-ltr .mw-content-rtl ul { margin: 0.3em 1.=
-6em 0px 0px; padding: 0px; }
-  .mw-content-ltr ol, .mw-content-rtl .mw-content-ltr ol { margin: 0.3em 0p=
-x 0px 3.2em; padding: 0px; }
-  .mw-content-rtl ol, .mw-content-ltr .mw-content-rtl ol { margin: 0.3em 3.=
-2em 0px 0px; padding: 0px; }
-  .mw-content-ltr dd, .mw-content-rtl .mw-content-ltr dd { margin-left: 1.6=
-em; margin-right: 0px; }
-  .mw-content-rtl dd, .mw-content-ltr .mw-content-rtl dd { margin-right: 1.=
-6em; margin-left: 0px; }
-  .mw-heading1:lang(anp), .mw-heading1:lang(as), .mw-heading1:lang(bh), .mw=
--heading1:lang(bho), .mw-heading1:lang(blk), .mw-heading1:lang(bn), .mw-hea=
-ding1:lang(gu), .mw-heading1:lang(hi), .mw-heading1:lang(kjp), .mw-heading1=
-:lang(kn), .mw-heading1:lang(ks), .mw-heading1:lang(ksw), .mw-heading1:lang=
-(mag), .mw-heading1:lang(ml), .mw-heading1:lang(mr), .mw-heading1:lang(my),=
- .mw-heading1:lang(mai), .mw-heading1:lang(mnw), .mw-heading1:lang(nit), .m=
-w-heading1:lang(new), .mw-heading1:lang(or), .mw-heading1:lang(pa), .mw-hea=
-ding1:lang(pi), .mw-heading1:lang(rki), .mw-heading1:lang(sa), .mw-heading1=
-:lang(shn), .mw-heading1:lang(syl), .mw-heading1:lang(ta), .mw-heading1:lan=
-g(te), h1:lang(anp), h1:lang(as), h1:lang(bh), h1:lang(bho), h1:lang(blk), =
-h1:lang(bn), h1:lang(gu), h1:lang(hi), h1:lang(kjp), h1:lang(kn), h1:lang(k=
-s), h1:lang(ksw), h1:lang(mag), h1:lang(ml), h1:lang(mr), h1:lang(my), h1:l=
-ang(mai), h1:lang(mnw), h1:lang(nit), h1:lang(new), h1:lang(or), h1:lang(pa=
-), h1:lang(pi), h1:lang(rki), h1:lang(sa), h1:lang(shn), h1:lang(syl), h1:l=
-ang(ta), h1:lang(te) { line-height: 1.6em !important; }
-  .mw-heading:lang(anp), .mw-heading:lang(as), .mw-heading:lang(bh), .mw-he=
-ading:lang(bho), .mw-heading:lang(blk), .mw-heading:lang(bn), .mw-heading:l=
-ang(gu), .mw-heading:lang(hi), .mw-heading:lang(kjp), .mw-heading:lang(kn),=
- .mw-heading:lang(ks), .mw-heading:lang(ksw), .mw-heading:lang(mag), .mw-he=
-ading:lang(ml), .mw-heading:lang(mr), .mw-heading:lang(my), .mw-heading:lan=
-g(mai), .mw-heading:lang(mnw), .mw-heading:lang(nit), .mw-heading:lang(new)=
-, .mw-heading:lang(or), .mw-heading:lang(pa), .mw-heading:lang(pi), .mw-hea=
-ding:lang(rki), .mw-heading:lang(sa), .mw-heading:lang(shn), .mw-heading:la=
-ng(syl), .mw-heading:lang(ta), .mw-heading:lang(te), h2:lang(anp), h2:lang(=
-as), h2:lang(bh), h2:lang(bho), h2:lang(blk), h2:lang(bn), h2:lang(gu), h2:=
-lang(hi), h2:lang(kjp), h2:lang(kn), h2:lang(ks), h2:lang(ksw), h2:lang(mag=
-), h2:lang(ml), h2:lang(mr), h2:lang(my), h2:lang(mai), h2:lang(mnw), h2:la=
-ng(nit), h2:lang(new), h2:lang(or), h2:lang(pa), h2:lang(pi), h2:lang(rki),=
- h2:lang(sa), h2:lang(shn), h2:lang(syl), h2:lang(ta), h2:lang(te), h3:lang=
-(anp), h3:lang(as), h3:lang(bh), h3:lang(bho), h3:lang(blk), h3:lang(bn), h=
-3:lang(gu), h3:lang(hi), h3:lang(kjp), h3:lang(kn), h3:lang(ks), h3:lang(ks=
-w), h3:lang(mag), h3:lang(ml), h3:lang(mr), h3:lang(my), h3:lang(mai), h3:l=
-ang(mnw), h3:lang(nit), h3:lang(new), h3:lang(or), h3:lang(pa), h3:lang(pi)=
-, h3:lang(rki), h3:lang(sa), h3:lang(shn), h3:lang(syl), h3:lang(ta), h3:la=
-ng(te), h4:lang(anp), h4:lang(as), h4:lang(bh), h4:lang(bho), h4:lang(blk),=
- h4:lang(bn), h4:lang(gu), h4:lang(hi), h4:lang(kjp), h4:lang(kn), h4:lang(=
-ks), h4:lang(ksw), h4:lang(mag), h4:lang(ml), h4:lang(mr), h4:lang(my), h4:=
-lang(mai), h4:lang(mnw), h4:lang(nit), h4:lang(new), h4:lang(or), h4:lang(p=
-a), h4:lang(pi), h4:lang(rki), h4:lang(sa), h4:lang(shn), h4:lang(syl), h4:=
-lang(ta), h4:lang(te), h5:lang(anp), h5:lang(as), h5:lang(bh), h5:lang(bho)=
-, h5:lang(blk), h5:lang(bn), h5:lang(gu), h5:lang(hi), h5:lang(kjp), h5:lan=
-g(kn), h5:lang(ks), h5:lang(ksw), h5:lang(mag), h5:lang(ml), h5:lang(mr), h=
-5:lang(my), h5:lang(mai), h5:lang(mnw), h5:lang(nit), h5:lang(new), h5:lang=
-(or), h5:lang(pa), h5:lang(pi), h5:lang(rki), h5:lang(sa), h5:lang(shn), h5=
-:lang(syl), h5:lang(ta), h5:lang(te), h6:lang(anp), h6:lang(as), h6:lang(bh=
-), h6:lang(bho), h6:lang(blk), h6:lang(bn), h6:lang(gu), h6:lang(hi), h6:la=
-ng(kjp), h6:lang(kn), h6:lang(ks), h6:lang(ksw), h6:lang(mag), h6:lang(ml),=
- h6:lang(mr), h6:lang(my), h6:lang(mai), h6:lang(mnw), h6:lang(nit), h6:lan=
-g(new), h6:lang(or), h6:lang(pa), h6:lang(pi), h6:lang(rki), h6:lang(sa), h=
-6:lang(shn), h6:lang(syl), h6:lang(ta), h6:lang(te) { line-height: 1.4em; }
+  .mw-heading1:lang(anp), .mw-heading1:lang(as), .mw-heading1:lang(awa), .m=
+w-heading1:lang(bgc), .mw-heading1:lang(bh), .mw-heading1:lang(bho), .mw-he=
+ading1:lang(blk), .mw-heading1:lang(bn), .mw-heading1:lang(bo), .mw-heading=
+1:lang(bpy), .mw-heading1:lang(ccp), .mw-heading1:lang(dty), .mw-heading1:l=
+ang(dz), .mw-heading1:lang(gom), .mw-heading1:lang(gu), .mw-heading1:lang(h=
+i), .mw-heading1:lang(kjp), .mw-heading1:lang(km), .mw-heading1:lang(kn), .=
+mw-heading1:lang(ks), .mw-heading1:lang(ksw), .mw-heading1:lang(mag), .mw-h=
+eading1:lang(mai), .mw-heading1:lang(ml), .mw-heading1:lang(mnw), .mw-headi=
+ng1:lang(mr), .mw-heading1:lang(my), .mw-heading1:lang(new), .mw-heading1:l=
+ang(nit), .mw-heading1:lang(nod), .mw-heading1:lang(or), .mw-heading1:lang(=
+pa), .mw-heading1:lang(pi), .mw-heading1:lang(rki), .mw-heading1:lang(sa), =
+.mw-heading1:lang(shn), .mw-heading1:lang(si), .mw-heading1:lang(syl), .mw-=
+heading1:lang(ta), .mw-heading1:lang(tcy), .mw-heading1:lang(tdd), .mw-head=
+ing1:lang(te), h1:lang(anp), h1:lang(as), h1:lang(awa), h1:lang(bgc), h1:la=
+ng(bh), h1:lang(bho), h1:lang(blk), h1:lang(bn), h1:lang(bo), h1:lang(bpy),=
+ h1:lang(ccp), h1:lang(dty), h1:lang(dz), h1:lang(gom), h1:lang(gu), h1:lan=
+g(hi), h1:lang(kjp), h1:lang(km), h1:lang(kn), h1:lang(ks), h1:lang(ksw), h=
+1:lang(mag), h1:lang(mai), h1:lang(ml), h1:lang(mnw), h1:lang(mr), h1:lang(=
+my), h1:lang(new), h1:lang(nit), h1:lang(nod), h1:lang(or), h1:lang(pa), h1=
+:lang(pi), h1:lang(rki), h1:lang(sa), h1:lang(shn), h1:lang(si), h1:lang(sy=
+l), h1:lang(ta), h1:lang(tcy), h1:lang(tdd), h1:lang(te) { line-height: 1.6=
+em !important; }
+  .mw-heading:lang(anp), .mw-heading:lang(as), .mw-heading:lang(awa), .mw-h=
+eading:lang(bgc), .mw-heading:lang(bh), .mw-heading:lang(bho), .mw-heading:=
+lang(blk), .mw-heading:lang(bn), .mw-heading:lang(bo), .mw-heading:lang(bpy=
+), .mw-heading:lang(ccp), .mw-heading:lang(dty), .mw-heading:lang(dz), .mw-=
+heading:lang(gom), .mw-heading:lang(gu), .mw-heading:lang(hi), .mw-heading:=
+lang(kjp), .mw-heading:lang(km), .mw-heading:lang(kn), .mw-heading:lang(ks)=
+, .mw-heading:lang(ksw), .mw-heading:lang(mag), .mw-heading:lang(mai), .mw-=
+heading:lang(ml), .mw-heading:lang(mnw), .mw-heading:lang(mr), .mw-heading:=
+lang(my), .mw-heading:lang(new), .mw-heading:lang(nit), .mw-heading:lang(no=
+d), .mw-heading:lang(or), .mw-heading:lang(pa), .mw-heading:lang(pi), .mw-h=
+eading:lang(rki), .mw-heading:lang(sa), .mw-heading:lang(shn), .mw-heading:=
+lang(si), .mw-heading:lang(syl), .mw-heading:lang(ta), .mw-heading:lang(tcy=
+), .mw-heading:lang(tdd), .mw-heading:lang(te), h2:lang(anp), h2:lang(as), =
+h2:lang(awa), h2:lang(bgc), h2:lang(bh), h2:lang(bho), h2:lang(blk), h2:lan=
+g(bn), h2:lang(bo), h2:lang(bpy), h2:lang(ccp), h2:lang(dty), h2:lang(dz), =
+h2:lang(gom), h2:lang(gu), h2:lang(hi), h2:lang(kjp), h2:lang(km), h2:lang(=
+kn), h2:lang(ks), h2:lang(ksw), h2:lang(mag), h2:lang(mai), h2:lang(ml), h2=
+:lang(mnw), h2:lang(mr), h2:lang(my), h2:lang(new), h2:lang(nit), h2:lang(n=
+od), h2:lang(or), h2:lang(pa), h2:lang(pi), h2:lang(rki), h2:lang(sa), h2:l=
+ang(shn), h2:lang(si), h2:lang(syl), h2:lang(ta), h2:lang(tcy), h2:lang(tdd=
+), h2:lang(te), h3:lang(anp), h3:lang(as), h3:lang(awa), h3:lang(bgc), h3:l=
+ang(bh), h3:lang(bho), h3:lang(blk), h3:lang(bn), h3:lang(bo), h3:lang(bpy)=
+, h3:lang(ccp), h3:lang(dty), h3:lang(dz), h3:lang(gom), h3:lang(gu), h3:la=
+ng(hi), h3:lang(kjp), h3:lang(km), h3:lang(kn), h3:lang(ks), h3:lang(ksw), =
+h3:lang(mag), h3:lang(mai), h3:lang(ml), h3:lang(mnw), h3:lang(mr), h3:lang=
+(my), h3:lang(new), h3:lang(nit), h3:lang(nod), h3:lang(or), h3:lang(pa), h=
+3:lang(pi), h3:lang(rki), h3:lang(sa), h3:lang(shn), h3:lang(si), h3:lang(s=
+yl), h3:lang(ta), h3:lang(tcy), h3:lang(tdd), h3:lang(te), h4:lang(anp), h4=
+:lang(as), h4:lang(awa), h4:lang(bgc), h4:lang(bh), h4:lang(bho), h4:lang(b=
+lk), h4:lang(bn), h4:lang(bo), h4:lang(bpy), h4:lang(ccp), h4:lang(dty), h4=
+:lang(dz), h4:lang(gom), h4:lang(gu), h4:lang(hi), h4:lang(kjp), h4:lang(km=
+), h4:lang(kn), h4:lang(ks), h4:lang(ksw), h4:lang(mag), h4:lang(mai), h4:l=
+ang(ml), h4:lang(mnw), h4:lang(mr), h4:lang(my), h4:lang(new), h4:lang(nit)=
+, h4:lang(nod), h4:lang(or), h4:lang(pa), h4:lang(pi), h4:lang(rki), h4:lan=
+g(sa), h4:lang(shn), h4:lang(si), h4:lang(syl), h4:lang(ta), h4:lang(tcy), =
+h4:lang(tdd), h4:lang(te), h5:lang(anp), h5:lang(as), h5:lang(awa), h5:lang=
+(bgc), h5:lang(bh), h5:lang(bho), h5:lang(blk), h5:lang(bn), h5:lang(bo), h=
+5:lang(bpy), h5:lang(ccp), h5:lang(dty), h5:lang(dz), h5:lang(gom), h5:lang=
+(gu), h5:lang(hi), h5:lang(kjp), h5:lang(km), h5:lang(kn), h5:lang(ks), h5:=
+lang(ksw), h5:lang(mag), h5:lang(mai), h5:lang(ml), h5:lang(mnw), h5:lang(m=
+r), h5:lang(my), h5:lang(new), h5:lang(nit), h5:lang(nod), h5:lang(or), h5:=
+lang(pa), h5:lang(pi), h5:lang(rki), h5:lang(sa), h5:lang(shn), h5:lang(si)=
+, h5:lang(syl), h5:lang(ta), h5:lang(tcy), h5:lang(tdd), h5:lang(te), h6:la=
+ng(anp), h6:lang(as), h6:lang(awa), h6:lang(bgc), h6:lang(bh), h6:lang(bho)=
+, h6:lang(blk), h6:lang(bn), h6:lang(bo), h6:lang(bpy), h6:lang(ccp), h6:la=
+ng(dty), h6:lang(dz), h6:lang(gom), h6:lang(gu), h6:lang(hi), h6:lang(kjp),=
+ h6:lang(km), h6:lang(kn), h6:lang(ks), h6:lang(ksw), h6:lang(mag), h6:lang=
+(mai), h6:lang(ml), h6:lang(mnw), h6:lang(mr), h6:lang(my), h6:lang(new), h=
+6:lang(nit), h6:lang(nod), h6:lang(or), h6:lang(pa), h6:lang(pi), h6:lang(r=
+ki), h6:lang(sa), h6:lang(shn), h6:lang(si), h6:lang(syl), h6:lang(ta), h6:=
+lang(tcy), h6:lang(tdd), h6:lang(te) { line-height: 1.4em; }
   .mw-heading1:lang(ne), h1:lang(ne) { line-height: 1.9; }
   .mw-heading2:lang(th), .mw-heading2:lang(ne), h2:lang(th), h2:lang(ne) { =
 line-height: 1.6; }
@@ -3170,17 +3744,14 @@ id rgb(170, 170, 170); padding: 5px; font-size: 95%; }
   .toc { display: table; padding: 7px; }
   .toc h2 { display: inline; border: 0px; padding: 0px; font-size: 100%; fo=
 nt-weight: bold; }
-  .toc .toctitle { text-align: center; }
+  .toc .toctitle { text-align: center; direction: ltr; }
   .toc ul { list-style: none; margin: 0.3em 0px; padding: 0px; text-align: =
-left; }
-  .toc ul ul { margin: 0px 0px 0px 2em; }
+start; }
+  .toc ul ul { margin: 0px 0px 0px 2em; margin-inline: 2em 0px; }
   table.toc { border-collapse: collapse; }
   table.toc td { padding: 0px; }
   .tocnumber, .toctext { display: table-cell; text-decoration: inherit; }
-  .tocnumber { color: rgb(34, 34, 34); padding-left: 0px; padding-right: 0.=
-5em; }
-  .mw-content-ltr .tocnumber { padding-left: 0px; padding-right: 0.5em; }
-  .mw-content-rtl .tocnumber { padding-left: 0.5em; padding-right: 0px; }
+  .tocnumber { color: rgb(34, 34, 34); }
   .toctogglecheckbox { position: absolute; opacity: 0; z-index: -1; display=
 : inline !important; }
   .toctogglespan { font-size: 94%; }
@@ -3194,15 +3765,23 @@ nderline; outline: auto; }
 "show"; }
   .toctogglecheckbox:not(:checked) + .toctitle .toctogglelabel::after { con=
 tent: "hide"; }
-  .toc .toctitle { direction: ltr; }
-  .mw-content-ltr .toc ul, .mw-content-rtl .mw-content-ltr .toc ul { text-a=
-lign: left; }
-  .mw-content-rtl .toc ul, .mw-content-ltr .mw-content-rtl .toc ul { text-a=
-lign: right; }
-  .mw-content-ltr .toc ul ul, .mw-content-rtl .mw-content-ltr .toc ul ul { =
-margin: 0px 0px 0px 2em; }
-  .mw-content-rtl .toc ul ul, .mw-content-ltr .mw-content-rtl .toc ul ul { =
-margin: 0px 2em 0px 0px; }
+}
+
+@media print {
+  .mw-parser-output a.external { }
+  .mw-parser-output a.external.text::after, .mw-parser-output a.external.au=
+tonumber::after { content: ' (' attr(href) ')'; word-break: break-all; over=
+flow-wrap: break-word; }
+  .mw-parser-output a.external.text[href^=3D"//"]::after, .mw-parser-output=
+ a.external.autonumber[href^=3D"//"]::after { content: ' (https:' attr(href=
+) ')'; }
+  .mw-editsection, .mw-editsection-like, .mw-indicators, #siteNotice, .user=
+message { display: none; }
+  .printfooter { clear: both; padding: 1em 0px; }
+  .toctogglecheckbox:checked + .toctitle { display: none; }
+  .toc { background-color: rgb(249, 249, 249); border: 1pt solid rgb(170, 1=
+70, 170); padding: 5px; display: table; }
+  .tocnumber, .toctext { display: table-cell; }
 }
 
 figure[typeof~=3D"mw:File"], figure[typeof~=3D"mw:File/Frameless"] { margin=
@@ -3420,10 +3999,6 @@ den; }
   td.mw-revdel-checkbox, th.mw-revdel-checkbox { padding-right: 10px; text-=
 align: center; }
   a.new { color: rgb(186, 0, 0); }
-  .plainlinks a.external { background: none !important; padding: 0px !impor=
-tant; }
-  .rtl a.external.free, .rtl a.external.autonumber { direction: ltr; unicod=
-e-bidi: embed; }
   .wikitable { background-color: rgb(248, 249, 250); color: rgb(34, 34, 34)=
 ; margin: 1em 0px; border: 1px solid rgb(162, 169, 177); border-collapse: c=
 ollapse; }
@@ -3434,7 +4009,6 @@ m 0.4em; }
 4, 236, 240); text-align: center; }
   .wikitable > caption { font-weight: bold; }
   .error, .warning, .success { font-size: larger; }
-  .error { color: rgb(215, 51, 51); }
   .warning { color: rgb(172, 102, 0); }
   .success { color: rgb(20, 134, 109); }
   .mw-infobox { border: 2px solid rgb(255, 204, 51); margin: 0.5em; clear: =
@@ -3580,14 +4154,13 @@ er-image: initial; border-width: 1px 1px 0.2em; box-shadow: rgba(0, 0, 0, 0=
   .mw-footer-container a:visited:hover { color: rgb(173, 208, 255); }
   .mw-footer-container ul { margin: 0px; }
   #p-logo { text-align: center; margin: auto; }
-  #p-logo-text { max-width: 14em; text-align: center; line-height: 1; }
-  #p-logo-text a { padding: 0.1em 1em 0.2em; color: rgb(0, 0, 0); font-fami=
-ly: "Linux Libertine", "Times New Roman", "Liberation Serif", "Nimbus Roman=
-", "Noto Serif", Times, serif; font-variant: small-caps; font-size: 1.85em;=
- display: block; }
-  #p-logo-text a.long { font-size: 1.5em; padding: 0px 0.75em 0px 0px; line=
--height: 0.8; }
-  #p-logo-text a.wordmark { padding: 0px 0.5em 0px 0px; }
+  #p-logo-text { padding-right: 1em; box-sizing: border-box; max-width: 14e=
+m; text-align: center; line-height: 1; }
+  #p-logo-text a { display: flex; height: 100%; align-items: center; justif=
+y-content: center; color: rgb(0, 0, 0); font-family: "Linux Libertine", "Ti=
+mes New Roman", "Liberation Serif", "Nimbus Roman", "Noto Serif", Times, se=
+rif; font-variant: small-caps; font-size: 1.85em; }
+  #p-logo-text a.long { font-size: 1.5em; line-height: 0.8; }
   #simpleSearch { box-shadow: rgba(0, 0, 0, 0.05) 0px 2px 4px 0px inset; ba=
 ckground: rgb(255, 255, 255); position: relative; border: 1px solid rgb(200=
 , 204, 209); }
@@ -3792,8 +4365,6 @@ olid none; margin: 0.5em 0px; }
   pre { overflow: auto; white-space: pre-wrap; }
   p { margin: 1em 0px; }
   ul { padding: 0px; margin: 0.3em 0px 0px 1.6em; }
-  .mw-hide-empty-elt .mw-parser-output:not(.mw-show-empty-elt) .mw-empty-el=
-t { display: none; }
   .center { margin-right: auto; margin-left: auto; text-align: center; }
   .floatright, .tright { margin: 0px 0px 0.5em 0.5em; padding: 0px 0px 1em =
 1.5em; }
@@ -3840,8 +4411,8 @@ s .mw-body .oo-ui-capsuleMultiselectWidget-handle { margin: 0px; }
 , .mw-changeslist-legend, .mw-body .mw-search-profile-tabs, .mw-body fields=
 et#mw-searchoptions, .mw_metadata, .wikitable, .mw-datatable { color: rgb(0=
 , 0, 0); background: rgb(248, 249, 250); border-style: solid; border-color:=
- rgb(234, 236, 240); border-image: initial; border-width: 1px 1px 0.2em; pa=
-dding: 1.25em 1.75em; box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 2px 1px; }
+ rgb(234, 236, 240); border-image: initial; border-width: 1px 1px 0.2em; bo=
+x-shadow: rgba(0, 0, 0, 0.02) 0px 1px 2px 1px; padding: 1.25em 1.75em; }
   .mw-body .mw-search-profile-tabs { padding: 0.5em; }
   .mw_metadata, .mw-datatable, .wikitable { border-color: rgb(200, 204, 209=
 ); }
@@ -4075,7 +4646,7 @@ unk li { padding: 0.25em 0px; }
   .sidebar-inner, #p-logo { display: none !important; }
   .color-right, .color-middle { background: rgb(179, 36, 36); }
   #mw-site-navigation, #mw-related-navigation { display: inline-block; posi=
-tion: relative; z-index: 202; }
+tion: relative; z-index: 199; }
   #mw-site-navigation h2, #mw-related-navigation h2 { font-weight: normal; =
 font-family: "Linux Libertine", "Times New Roman", "Liberation Serif", "Nim=
 bus Roman", "Noto Serif", Times, serif; font-size: 1.25em; padding: 0.5em 0=
@@ -4213,8 +4784,8 @@ ess/resources/images/menu-large-grey.svg?7b579"); }
   #site-navigation .sidebar-inner { left: 0px; right: auto; }
   #site-tools h2 { right: 4.95em; background-image: url("/w/skins/Timeless/=
 resources/images/gear-large-grey.svg?47316"); }
-  #p-logo-text { position: absolute; top: 0.75em; left: 4.45em; text-align:=
- left; }
+  #p-logo-text { position: absolute; top: 1em; left: 4.45em; text-align: le=
+ft; }
   #p-logo-text a { padding-left: 0px; }
   #p-namespaces li { margin-right: 1.5em; }
   .tools-inline li a { text-indent: -99999px; width: 20px; overflow: hidden=
@@ -4339,10 +4910,10 @@ order-color: initial; border-image: initial; background-color: rgb(255, 255=
   .mw-image-border .mw-file-element { border: 1pt solid rgb(170, 170, 170);=
  }
 }
-------MultipartBoundary--lsAqnstDkXZVgIgedDPxHGPVc2MDtCM4Sfs8t4ybBU----
+------MultipartBoundary--LFkDdnIQT00sekIk53rVKLTGXx3uV8KTyEcfjODqt7----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-91984afb-af55-4f39-a975-766b3a4d9a1e@mhtml.blink
+Content-Location: cid:css-1106e605-9466-464f-9bc9-97d7b660dc8f@mhtml.blink
 
 @charset "utf-8";
 
@@ -4372,7 +4943,18 @@ ll; z-index: 1; }
   .content-table-spoof { height: 1px; }
 }
 
+.mw-highlight-copy--bound button { position: absolute; top: -1em; right: -0=
+.9em; box-sizing: border-box; padding: 5px 7px; border-radius: 2px; backgro=
+und: rgb(255, 255, 255); color: rgb(6, 69, 173); border: 1px solid rgb(238,=
+ 238, 238); }
+
+.mw-highlight-copy--bound button:hover { cursor: pointer; color: rgb(68, 12=
+7, 245); background: rgb(249, 249, 249); border-color: rgb(68, 127, 245); }
+
+.mw-highlight-copy--bound button:active { color: rgb(42, 75, 141); backgrou=
+nd: rgb(238, 238, 238); border-color: rgb(42, 75, 141); }
+
 #mw-teleport-target { position: absolute; z-index: 450; }
 
 #mw-teleport-target { font-size: 0.95em; }
-------MultipartBoundary--lsAqnstDkXZVgIgedDPxHGPVc2MDtCM4Sfs8t4ybBU------
+------MultipartBoundary--LFkDdnIQT00sekIk53rVKLTGXx3uV8KTyEcfjODqt7------
